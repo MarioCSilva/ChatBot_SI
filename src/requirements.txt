@@ -1,0 +1,7 @@
+chatterbot
+chatterbot-corpus
+spacy
+SpacyTextBlob
+numerizer
+colorama
+sutime

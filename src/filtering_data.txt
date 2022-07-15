@@ -1,0 +1,4246 @@
+TBJ_7 Novembre_Tabarka
+LCG_A Coruna_La Coruna
+AAL_Aalborg_Aalborg
+AAR_Aarhus_Aarhus
+JEG_Aasiaat_Aasiaat
+ABD_Abadan_Abadan
+ABA_Abakan_Abakan
+YXX_Abbotsford_Abbotsford
+MLG_Abdul Rachman Saleh_Malang
+AEH_Abeche_Abeche
+SNU_Abel Santamaria_Santa Clara
+ABR_Aberdeen Regional Airport_Aberdeen
+AHB_Abha_Abha
+ABJ_Abidjan Felix Houphouet Boigny Intl_Abidjan
+ABI_Abilene Rgnl_Abilene
+CJS_Abraham Gonzalez Intl_Ciudad Juarez
+SPI_Abraham Lincoln Capital_Springfield
+AUH_Abu Dhabi Intl_Abu Dhabi
+ABS_Abu Simbel_Abu Simbel
+ARA_Acadiana Rgnl_Louisiana
+SRG_Achmad Yani_Semarang
+ADK_Adak Airport_Adak Island
+LIT_Adams Fld_Little Rock
+ADA_Adana_Adana
+ADL_Adelaide Intl_Adelaide
+MGQ_Aden Adde International Airport_Mogadishu
+ADE_Aden Intl_Aden
+SOC_Adi Sumarmo Wiryokusumo_Solo City
+JOG_Adi Sutjipto_Yogyakarta
+SLK_Adirondack Regional Airport_Saranac Lake
+ADF_Adiyaman Airport_\N
+ADB_Adnan Menderes_Izmir
+AEP_Aeroparque Jorge Newbery_Buenos Aires
+BPS_Aeroporto de Porto Seguro_Porto Seguro
+TTQ_Aerotortuguero Airport_Roxana
+CWB_Afonso Pena_Curitiba
+AFY_Afyon_Afyon
+IXA_Agartala_Agartala
+AGX_Agatti_Agatti Island
+AGZ_Aggeneys_Aggeneys
+AGR_Agra_Agra
+AJI_Agri Airport_\N
+AGQ_Agrinion_Agrinion
+OCV_Aguas Claras_Ocana
+AGJ_Aguni_Aguni
+AHE_Ahe Airport_\N
+AMD_Ahmedabad_Ahmedabad
+AHS_Ahuas Airport_Ahuas
+AWZ_Ahwaz_Ahwaz
+AIM_Ailuk Airport_Ailuk Island
+IEO_Aioun El Atrouss_Aioun El Atrouss
+HFT_Airport_Hammerfest
+MEH_Airport_Mehamn
+VDS_Airport_Vadso
+AIT_Aitutaki_Aitutaki
+CMF_Aix Les Bains_Chambery
+QXB_Aix Les Milles_Aix-les-milles
+AJL_Aizawl_Aizwal
+AXT_Akita_Akita
+LAK_Aklavik_Aklavik
+AKD_Akola_Akola
+CAK_Akron Canton Regional Airport_AKRON
+AKR_Akron Fulton Intl_Akron
+AKT_Akrotiri_Akrotiri
+AKU_Aksu Airport_Aksu
+SCO_Aktau_Aktau
+PVK_Aktio_Preveza
+AKX_Aktyubinsk_Aktyubinsk
+AKV_Akulivik Airport_Akulivik
+QCU_Akunnaaq Heliport_\N
+AEY_Akureyri_Akureyri
+KQA_Akutan Seaplane Base_Akutan
+HOF_Al Ahsa Airport_\N
+LEA_Al Ahsa_Al-ahsa
+AAN_Al Ain International Airport_\N
+ABT_Al Baha_El-baha
+AAY_Al Ghaidah Intl_Al Ghaidah Intl
+AJO_Al Jouf_Al-jouf
+AJF_Al-Jawf Domestic Airport_Al-Jawf
+ALM_Alamogordo White Sands Regional Airport_Alamogordo
+ABC_Albacete_Albacete
+ALH_Albany Airport_Albany
+ALB_Albany Intl_Albany
+ALL_Albenga_Albenga
+OAJ_Albert J Ellis_Jacksonville NC
+SPG_Albert Whitted_St. Petersburg
+MRD_Alberto Carnevalli_Merida
+TND_Alberto Delgado Airport_Trinidad
+ABQ_Albuquerque International Sunport_Albuquerque
+IKR_Albuquerque Intl Sunport_Kirtland A.f.b.
+ABX_Albury_Albury
+BFS_Aldergrove_Belfast
+ACI_Alderney_Alderney
+WKK_Aleknagik Airport_Aleknagik
+ALP_Aleppo Intl_Aleppo
+YLT_Alert_Alert
+ALJ_Alexander Bay_Alexander Bay
+ALR_Alexandra_Alexandra
+ALY_Alexandria Intl_Alexandria
+AEX_Alexandria Intl_Alexandria
+JSI_Alexandros Papadiamantis_Skiathos
+HUU_Alferez Fap David Figueroa Fernandini Airport_HuÃ¡nuco
+CLO_Alfonso Bonilla Aragon Intl_Cali
+VUP_Alfonso Lopez Pumarejo_Valledupar
+LET_Alfredo Vasquez Cobo_Leticia
+AHO_Alghero_Alghero
+ALC_Alicante_Alicante
+ALI_Alice Intl_Alice
+ASP_Alice Springs_Alice Springs
+IXD_Allahabad_Allahabad
+LHE_Allama Iqbal Intl_Lahore
+BIG_Allen Aaf_Delta Junction
+LLU_Alluitsup Paa Heliport_Alluitsup Paa
+ALA_Almaty_Alma-ata
+LEI_Almeria_Almeria
+RCH_Almirante Padilla_Rio Hacha
+REL_Almirante Zar_Trelew
+CTD_Alonso Valderrama Airport_ChitrÃ©
+APN_Alpena County Regional Airport_Alpena
+AFL_Alta Floresta_Alta Floresta
+ALF_Alta_Alta
+LTI_Altai Airport_\N
+ATM_Altamira_Altamira
+AOC_Altenburg Nobitz_Altenburg
+AOO_Altoona Blair Co_Altoona
+LTS_Altus Afb_Altus
+ALU_Alula Airport_Alula
+NSK_Alykel_Norilsk
+ASJ_Amami_Amami
+KDL_Amari_Armari Air Force Base
+WAI_Ambalabe_Antsohihy
+IVA_Ambanja Airport_Ambanja
+WAM_Ambatondrazaka Airport_Ambatondrazaka
+AMB_Ambilobe_Ambilobe
+MZI_Ambodedjo_Mopti
+ASV_Amboseli Airport_Amboseli National Park
+JIB_Ambouli International Airport_Djibouti
+COR_Ambrosio L V Taravella_Cordoba
+AMV_Amderma Airport_Amderma
+SID_Amilcar Cabral Intl_Amilcar Cabral
+GOY_Amparai_Galoya
+SAY_Ampugnano_Siena
+ATQ_Amritsar_Amritsar
+AAA_Anaa_Anaa
+AAO_Anaco_Anaco
+YAA_Anahim Lake Airport_Anahim Lake
+HVA_Analalava_Analalava
+SDN_Anda Airport_Sandane
+ANS_Andahuaylas_Andahuaylas
+ZWA_Andapa_Andapa
+UAM_Andersen Afb_Andersen
+AND_Anderson Rgnl_Andersen
+AZN_Andizhan Airport_Andizhan
+ANX_Andoya_Andoya
+PYR_Andravida_Andravida
+ADW_Andrews Afb_Camp Springs
+AUY_Anelghowhat Airport_Anelghowhat
+OUD_Angads_Oujda
+TGZ_Angel Albino Corzo_Tuxtla Gutierrez
+MVD_Angel S Adami_Montevideo
+LFK_Angelina Co_Lufkin
+ANE_Angers-Loire Airport_Angers/MarcÃ©
+HLY_Anglesey Airport_Angelsey
+BIQ_Anglet_Biarritz-bayonne
+ANI_Aniak Airport_Aniak
+AWD_Aniwa Airport_Aniwa
+AKA_Ankang Airport_Ankang
+JVA_Ankavandra Airport_Ankavandra
+AAE_Annaba_Annaba
+QNJ_Annemasse_Annemasse
+ANN_Annette Island_Annette Island
+ANB_Anniston Metro_Anniston
+AYT_Antalya_Antalya
+SJI_Antique_San Jose
+OES_Antoine De St Exupery Airport_San Antonio Oeste
+CUM_Antonio Jose De Sucre_Cumana
+SCU_Antonio Maceo Intl_Santiago De Cuba
+PSO_Antonio Narino_Pasto
+WAQ_Antsalova Airport_Antsalova
+ANM_Antsirabato_Antalaha
+AOJ_Aomori_Aomori
+AOT_Aosta Airport_Aosta
+APO_ApartadÃ³ Airport_ApartadÃ³
+APK_Apataki Airport_Apataki
+ATW_Appleton_Appleton
+AQJ_Aqaba King Hussein Intl_Aqaba
+ARU_Aracatuba_Aracatuba
+ARW_Arad_Arad
+RAE_Arar_Arar
+AQA_Araraquara_Araracuara
+GPA_Araxos_Patras
+AMH_Arba Minch_Arba Minch
+ACV_Arcata_Arcata CA
+ADU_Ardabil Airport_\N
+OBS_Ardeche Meridionale_Aubenas-vals-lanas
+ADM_Ardmore Muni_Ardmore
+GYL_Argyle Airport_\N
+KSO_Aristotelis_Kastoria
+BYH_Arkansas Intl_Blytheville
+ARN_Arlanda_Stockholm
+ARM_Armidale_Armidale
+GRX_Armilla_Granada
+SBK_Armor_St.-brieuc Armor
+YYW_Armstrong_Armstrong
+LME_Arnage_Le Mans
+LBE_Arnold Palmer Regional Airport_Latrobe
+ZCA_Arnsberg Menden_Arnsberg
+MOL_Aro_Molde
+DIE_Arrachart_Antsiranana
+X21_Arthur Dunn Airpark_Titusville
+ATC_Arthurs Town Airport_\N
+SCL_Arturo Merino Benitez Intl_Santiago
+VLN_Arturo Michelena Intl_Valencia
+RUA_Arua Airport_Arua
+ARK_Arusha_Arusha
+AXR_Arutua_Arutua
+AVK_Arvaikheer Airport_\N
+YEK_Arviat_Eskimo Point
+AJR_Arvidsjaur_Arvidsjaur
+AKJ_Asahikawa_Asahikawa
+AVL_Asheville Regional Airport_Asheville
+ASB_Ashgabat_Ashkhabad
+ASM_Asmara Intl_Asmara
+ASO_Asosa_Asosa
+ASA_Assab Intl_Assab
+TSE_Astana Intl_Tselinograd
+ASF_Astrakhan_Astrakhan
+OVD_Asturias_Aviles
+JTY_Astypalaia_Astypalaia
+ASW_Aswan Intl_Aswan
+ATZ_Asyut International Airport_\N
+AXK_Ataq_Ataq
+ATR_Atar_Atar
+IST_Ataturk_Istanbul
+ATB_Atbara Airport_Atbara
+AHN_Athens Ben Epps Airport_Athens
+YIB_Atikokan Muni_Atikokan
+AIU_Atiu Island Airport_Atiu Island
+ACY_Atlantic City Intl_Atlantic City
+YAT_Attawapiskat Airport_Attawapiskat
+GUW_Atyrau_Atyrau
+AKL_Auckland Intl_Auckland
+AGB_Augsburg_Augsburg
+AGS_Augusta Rgnl At Bush Fld_Bush Field
+AUG_Augusta State_Augusta
+NAT_Augusto Severo_Natal
+AKS_Auki Airport_Auki
+YPJ_Aupaluk Airport_Aupaluk
+AUL_Aur Island Airport_Aur Atoll
+IXU_Aurangabad_Aurangabad
+BBU_Aurel Vlaicu_Bucharest
+AUR_Aurillac_Aurillac
+AUU_Aurukun Airport_\N
+AUS_Austin Bergstrom Intl_Austin
+GRB_Austin Straubel Intl_Green Bay
+CFE_Auvergne_Clermont Ferrand
+AVV_Avalon_Avalon
+WMR_Avaratra_Mananara
+CPC_Aviador C Campos_San Martin Des Andes
+AVB_Aviano Ab_Aviano
+AXU_Axum_Axum
+AYQ_Ayers Rock_Ayers Rock
+MBU_Babanakira Airport_Mbambanakira
+ROR_Babelthuap_Babelthuap
+IEG_Babimost_Zielona Gora
+BXB_Babo_Babo
+BFH_Bacacheri_Curitiba
+BCM_Bacau_Bacau
+BCO_Baco Airport_Baco
+BCD_Bacolod_Bacolod
+FKB_Baden Airpark_Karlsruhe-Baden
+BDD_Badu Island Airport_\N
+BFX_Bafoussam_Bafoussam
+NYU_Bagan Intl_Nyuang U
+BPE_Bagan_Bagan
+IXB_Bagdogra_Baghdogra
+SDA_Baghdad International Airport_Baghdad
+YBG_Bagotville_Bagotville
+BAG_Baguio_Baguio
+BHV_Bahawalpur Airport_Bahawalpur
+BFQ_Bahia PiÃ±a Airport_Bahia PiÃ±a
+HUX_Bahias De Huatulco Intl_Bahias Dehuatulco
+BJR_Bahir Dar_Bahar Dar
+BAH_Bahrain Intl_Bahrain
+YBC_Baie Comeau_Baie Comeau
+LZH_Bailian Airport_Liuzhou
+BBR_Baillif Airport_Basse Terre
+VMU_Baimuru Airport_Baimuru
+HET_Baita Airport_\N
+CAN_Baiyun Intl_Guangzhou
+BJH_Bajhang_Bajhang
+BKM_Bakalalan Airport_Bakalalan
+BXE_Bakel_Bakel
+YBK_Baker Lake_Baker Lake
+BWO_Balakovo Airport_Balakovo
+CEK_Balandino_Chelyabinsk
+MLH_Bale Mulhouse_Mulhouse
+DPS_Bali Ngurah Rai_Denpasar
+KRK_Balice_Krakow
+EDO_Balikesir Korfez Airport_\N
+BZI_Balikesir_Balikesir
+OPU_Balimo Airport_Balimo
+BAS_Ballalae Airport_Ballalae
+BNK_Ballina Byron Gateway_Ballina Byron Bay
+BBA_Balmaceda_Balmaceda
+BWI_Baltimore Washington Intl_Baltimore
+BXR_Bam Airport_\N
+ABM_Bamaga Injinoo_Amberley
+BPC_Bamenda_Bamenda
+OUI_Ban Huoeisay Airport_\N
+LKL_Banak_Banak
+BND_Bandar Abbass Intl_Bandar Abbas
+BDH_Bandar Lengeh_Bandar Lengeh
+CMB_Bandaranaike Intl Colombo_Colombo
+NWA_Bandaressalam_Moheli
+BDM_Bandirma_Bandirma
+FDU_Bandundu_Bandoundu
+BLR_Bangalore_Bangalore
+BGR_Bangor Intl_Bangor
+BGF_Bangui M Poko_Bangui
+BNX_Banja Luka International Airport_Banja Luka
+BJL_Banjul Intl_Banjul
+BMO_Banmaw Airport_Banmaw
+BNP_Bannu Airport_Bannu
+SZX_Baoan Intl_Shenzhen
+BAV_Baotou Airport_Baotou
+MGN_Baracoa_Magangue
+MAD_Barajas_Madrid
+BEJ_Barau(Kalimaru) Airport_Tanjung Redep-Borneo Island
+QYR_Barberey_Troyes
+BCI_Barcaldine Airport_\N
+BCN_Barcelona_Barcelona
+BDU_Bardufoss_Bardufoss
+BRI_Bari_Bari
+BNS_Barinas_Barinas
+BBN_Bario Airport_Bario
+BZL_Barisal Airport_Barisal
+BKH_Barking Sands Pmrf_Barking Sands
+PAH_Barkley Regional Airport_PADUCAH
+BAD_Barksdale Afb_Shreveport
+BAX_Barnaul_Barnaul
+HYA_Barnstable Muni Boardman Polando Fld_Barnstable
+BRM_Barquisimeto Intl_Barquisimeto
+BRR_Barra Airport_Barra
+BCL_Barra del Colorado Airport_Pococi
+BTI_Barter Island Lrrs_Barter Island
+CAW_Bartolomeu Lisandro_Campos
+HLJ_Barysiai_Barysiai
+KRZ_Basango Mboliasa Airport_Kiri
+BSU_Basankusu Airport_Basankusu
+BSO_Basco Airport_\N
+SSZ_Base Aerea De Santos_Santos
+BSR_Basrah Intl_Basrah
+MEK_Bassatine_Meknes
+LTK_Bassel Al Assad Intl_Latakia
+PGX_Bassillac_Perigueux
+BSG_Bata_Bata
+AZI_Bateen_Abu Dhabi
+BHS_Bathurst Airport_\N
+ZBF_Bathurst Airport_Bathurst
+BAL_Batman_Batman
+BLJ_Batna Airport_\N
+BTR_Baton Rouge Metro Ryan Fld_Baton Rouge
+BJF_Batsfjord_Batsfjord
+BBM_Battambang Airport_Battambang
+BUS_Batumi_Batumi
+BDE_Baudette Intl_Baudette
+BAU_Bauru_Bauru
+BBJ_Bautzen_Bautzen
+BYN_Bayankhongor Airport_\N
+BYU_Bayreuth_Bayreuth
+BAB_Beale Afb_Marysville
+XBE_Bearskin Lake Airport_Bearskin Lake
+NBC_Beaufort Mcas_Beaufort
+DRI_Beauregard Rgnl_Deridder
+BEU_Bedourie Airport_\N
+BEI_Beica Airport_Beica
+MZW_Beigan_Matsu
+BHY_Beihai Airport_Beihai
+BHN_Beihan_Beihan
+NAY_Beijing Nanyuan Airport_Beijing
+BEW_Beira_Beira
+BLG_Belaga Airport_Belaga
+BMY_Belep Islands Airport Airport_Waala
+IXG_Belgaum_Belgaum
+EGO_Belgorod International Airport_Belgorod
+BEP_Bellary_Bellary
+LIG_Bellegarde_Limoges
+BLI_Bellingham Intl_Bellingham
+BMD_Belo sur Tsiribihina Airport_Belo sur Tsiribihina
+BJI_Bemidji Regional Airport_Bemidji
+TLV_Ben Gurion_Tel-aviv
+BEB_Benbecula_Benbecula
+BUG_Benguela_Benguela
+BNI_Benin_Benin
+BEN_Benina_Benghazi
+NVA_Benito Salas_Neiva
+BEG_Beograd_Beograd
+BBO_Berbera_Berbera
+BBT_Berberati_Berberati
+BGY_Bergamo Orio Al Serio_Bergamo
+BVG_Berlevag_Berlevag
+BJO_Bermejo_Bermejo
+BDA_Bermuda Intl_Bermuda
+BRN_Bern Belp_Bern
+BTM_Bert Mooney Airport_Butte
+BPY_Besalampy_Besalampy
+OGZ_Beslan Airport_Beslan
+BET_Bethel_Bethel
+BTT_Bettles_Bettles
+BWA_Bhairahawa_Bhairawa
+BHR_Bharatpur Airport_Bharatpur
+BHU_Bhavnagar_Bhaunagar
+VIY_Bhisho_Bisho
+BHP_Bhojpur_Bhojpur
+BHO_Bhopal_Bhopal
+BBI_Bhubaneshwar_Bhubaneswar
+BHJ_Bhuj_Bhuj
+PIS_Biard_Poitiers
+BYS_Bicycle Lake Aaf_Fort Irwin
+7AK_Big Mountain Afs_Big Mountain
+YTL_Big Trout Lake Airport_Big Trout Lake
+BQH_Biggin Hill_Biggin Hill
+BIF_Biggs Aaf_El Paso
+PAB_Bilaspur_Bilaspur
+BIO_Bilbao_Bilbao
+BIL_Billings Logan International Airport_Billings
+BLL_Billund_Billund
+ZBL_Biloela_Biloela
+NSB_Bimini North Seaplane Base_Bimini
+GNS_Binaka_Gunung Sitoli
+TSN_Binhai_Tianjin
+BTU_Bintulu_Bintulu
+BIR_Biratnagar_Biratnagar
+BVI_Birdsville Airport_\N
+XBJ_Birjand_Birjand
+BHM_Birmingham Intl_Birmingham
+BHX_Birmingham_Birmingham
+IXR_Birsa Munda_Ranchi
+DUG_Bisbee Douglas Intl_Douglas
+BHH_Bisha_Bisha
+FNT_Bishop International_Flint
+BSK_Biskra_Biskra
+BIS_Bismarck Municipal Airport_Bismarck
+BXO_Bissau Oswaldo Vieira Intl_Bissau
+BMM_Bitam_Bitam
+ZUN_Black Rock_Zuni Pueblo
+BKQ_Blackall_Blackall
+BBS_Blackbushe_Blackbushe
+BLK_Blackpool_Blackpool
+BLT_Blackwater Airport_\N
+TLS_Blagnac_Toulouse
+BFN_Bloemfontein Intl_Bloemfontein
+LEX_Blue Grass_Lexington KY
+BEF_Bluefields_Bluefields
+BLH_Blythe Airport_Blythe
+KBS_Bo Airport_Bo
+BVB_Boa Vista_Boa Vista
+BUR_Bob Hope_Burbank
+CEW_Bob Sikes_Crestview
+BOY_Bobo Dioulasso_Bobo-dioulasso
+BCT_Boca Raton_Boca Raton
+BOC_Bocas Del Toro Intl_Bocas Del Toro
+PMO_Boccadifalco_Palermo
+BOO_Bodo_Bodoe
+BJV_Bodrum - Milas_Bodrum
+BFI_Boeing Fld King Co Intl_Seattle
+GIC_Boigu Airport_\N
+BOI_Boise Air Terminal_Boise
+BJB_Bojnourd Airport_Bojnourd
+BUI_Bokondini Airport_Bokondini-Papua Island
+ADD_Bole Intl_Addis Ababa
+BLQ_Bologna_Bologna
+PEE_Bolshoye Savino_Perm
+BZO_Bolzano_Bolzano
+LAZ_Bom Jesus Da Lapa_Bom Jesus Da Lapa
+BOA_Boma Airport_Boma
+TRW_Bonriki Intl_Tarawa
+HRO_Boone Co_Harrison
+BXX_Boorama Airport_Boorama
+BOB_Bora Bora_Bora Bora
+BMW_Bordj Badji Mokhtar Airport_Bordj Badji Mokhtar
+HBE_Borg El Arab Intl_Alexandria
+BMK_Borkum_Borkum
+BLE_Borlange_Borlange
+RNN_Bornholm Ronne_Ronne
+KBP_Boryspil Intl_Kiev
+BSA_Bosaso Airport_Bosaso
+OCJ_Boscobel_Ocho Rios
+TID_Bou Chekif_Tiaret
+BYK_Bouake_Bouake
+BQL_Boulia Airport_\N
+BOU_Bourges_Bourges
+BRK_Bourke Airport_\N
+BOH_Bournemouth_Bournemouth
+EBU_Boutheon_St.-etienne
+HQM_Bowerman Field_Hoquiam
+LOU_Bowman Fld_Louisville
+BWK_Brac_Brac
+BFD_Bradford Regional Airport_Bradford
+BDL_Bradley Intl_Windsor Locks
+BSF_Bradshaw Aaf_Bradshaw Field
+BGC_Braganca_Braganca
+AUF_Branches_Auxerre
+YBR_Brandon Muni_Brandon
+BTK_Bratsk_Bratsk
+BWE_Braunschweig Wolfsburg_Braunschweig
+BRE_Bremen_Bremen
+BRV_Bremerhaven_Bremerhaven
+MEN_Brenoux_Mende
+ORE_Bricy_Orleans
+ANG_Brie Champniers_Angouleme
+BNE_Brisbane Intl_Brisbane
+FZO_Bristol Filton_Bristol
+BRS_Bristol_Bristol
+BZZ_Brize Norton_Brize Norton
+BHQ_Broken Hill Airport_\N
+BMA_Bromma_Stockholm
+LYN_Bron_Lyon
+BNN_Bronnoy_Bronnoysund
+BKX_Brookings Regional Airport_Brookings
+BME_Broome_Broome
+BRO_Brownsville South Padre Island Intl_Brownsville
+BWN_Brunei Intl_Brunei
+BQK_Brunswick Golden Isles Airport_Brunswick
+BRU_Brussels Natl_Brussels
+CRL_Brussels South_Charleroi
+BZK_Bryansk_Bryansk
+FRN_Bryant Ahp_Fort Richardson
+LUW_Bubung_Luwuk
+KWA_Bucholz Aaf_Kwajalein
+BKF_Buckley Afb_Buckley
+YVT_Buffalo Narrows_Buffalo Narrows
+BUF_Buffalo Niagara Intl_Buffalo
+BFO_Buffalo Range_Chiredzi
+UUA_Bugulma Airport_Bugulma
+BJM_Bujumbura Intl_Bujumbura
+BUA_Buka Airport_Buka Island
+BKY_Bukavu Kavumu_Bukavu/kavumu
+BHK_Bukhara_Bukhara
+BKZ_Bukoba Airport_Bukoba
+BDB_Bundaberg_Bundaberg
+BUX_Bunia_Bunia
+BMV_Buon Ma Thuot Airport_\N
+BUO_Burao Airport_Burao
+BOJ_Burgas_Bourgas
+RGS_Burgos_Burgos
+BFV_Buri Ram_Buri Ram
+BUC_Burketown Airport_\N
+BTV_Burlington Intl_Burlington
+YDB_Burwash_Burwash
+BUZ_Bushehr_Bushehr
+USU_Busuanga_Busuanga
+YKZ_Buttonville Muni_Toronto
+FCS_Butts Aaf_Fort Carson
+BXU_Butuan_Butuan
+BZG_Bydgoszcz Ignacy Jan Paderewski Airport_Bydgoszcz
+BKA_Bykovo_Moscow
+CBH_BÃ©char Boudghene Ben Ali Lotfi Airport_BÃ©char
+VSA_C P A Carlos Rovirosa Intl_Villahermosa
+MKC_C.B. Wheeler - Downtown_Kansas City
+CAH_Ca Mau_Ca Mau
+LHC_Caballococha Airport_Caballococha
+CAB_Cabinda_Cabinda
+TNO_Cabo Velas Airport_Nicoya
+TPP_Cadete Guillermo Del Castillo Paredes_Tarapoto
+COO_Cadjehoun_Cotonou
+CGY_Cagayan De Oro_Ladag
+CNS_Cairns Intl_Cairns
+CAI_Cairo Intl_Cairo
+CBQ_Calabar_Calabar
+CQF_Calais Dunkerque_Calais
+CYP_Calbayog Airport_Calbayog City
+CLV_Caldas Novas_Caldas Novas
+CXL_Calexico Intl_Calexico
+YYC_Calgary Intl_Calgary
+CCJ_Calicut_Calicut
+CXR_Cam Ranh Airport_Nha Trang
+YCB_Cambridge Bay_Cambridge Bay
+CBG_Cambridge_Cambridge
+CDU_Camden_Camden
+CGM_Camiguin Airport_\N
+CUC_Camilo Daza_Cucuta
+LOH_Camilo Ponce Enriquez Airport_La Toma (Catamayo)
+ATT_Camp Mabry Austin City_Austin TX
+HOP_Campbell Aaf_Hopkinsville
+YBL_Campbell River_Campbell River
+CAL_Campbeltown Airport_Campbeltown
+AJA_Campo Dell Oro_Ajaccio
+CXJ_Campo Dos Bugres_Caxias Do Sul
+QPS_Campo Fontenelle_Piracununga
+CGR_Campo Grande_Campo Grande
+YXC_Canadian Rockies Intl_Cranbrook
+CAJ_Canaima_Canaima
+ZOS_Canal Bajo Carlos Hott Siebert_Osorno
+CBR_Canberra_Canberra
+CUN_Cancun Intl_Cancun
+DCF_Canefield_Canefield
+CVS_Cannon Afb_Clovis
+CIW_Canouan_Canouan Island
+CIS_Canton_Canton Island
+PCL_Cap Fap David Abenzur Rengifo Intl_Pucallpa
+CAP_Cap Haitien Intl_Cap Haitien
+CHX_Cap Manuel Nino Intl_Changuinola
+CSK_Cap Skiring_Cap Skiring
+YTE_Cape Dorset_Cape Dorset
+CGI_Cape Girardeau Regional Airport_Cape Girardeau
+LUR_Cape Lisburne Lrrs_Cape Lisburne
+WWD_Cape May Co_Wildwood
+EHM_Cape Newenham Lrrs_Cape Newenham
+CZF_Cape Romanzof Lrrs_Cape Romanzof
+CPT_Cape Town Intl_Cape Town
+LAN_Capital City_Lansing
+PEK_Capital Intl_Beijing
+TRU_Capitan Carlos Martinez De Pinillos_Trujillo
+PIU_Capitan Fap Guillermo Concha Iberico_Piura
+TYL_Capitan Montes_Talara
+POI_Capitan Nicolas Rojas_Potosi
+TJA_Capitan Oriel Lea Plaza_Tarija
+SRJ_CapitÃ¡n Av. German Quiroga G. Airport_San Borja
+RIB_CapitÃ¡n Av. Selin Zeitun Lopez Airport_Riberalta
+GYA_CapitÃ¡n de Av. Emilio BeltrÃ¡n Airport_GuayaramerÃ­n
+NAP_Capodichino_Naples
+CIX_Capt Jose A Quinones Gonzales Intl_Chiclayo
+PLP_Captain Ramon Xatruch Airport_La Palma
+CYW_Captain Rogelio Castillo National Airport_Celaya
+CSB_Caransebes_Caransebes
+CRQ_Caravelas_Caravelas
+DNZ_Cardak_Denizli
+CWL_Cardiff_Cardiff
+CAR_Caribou Muni_Caribou
+CAX_Carlisle_Carlisle
+PUQ_Carlos Ibanez Del Campo Intl_Punta Arenas
+BYM_Carlos Manuel De Cespedes_Bayamo
+CVQ_Carnarvon Airport_\N
+CLN_Carolina_Carolina
+CFR_Carpiquet_Caen
+CCP_Carriel Sur Intl_Concepcion
+TUN_Carthage_Tunis
+YRF_Cartwright Airport_Cartwright
+LRM_Casa De Campo Intl_La Romana
+BDS_Casale_Brindisi
+CAC_Cascavel_Cascavel
+PYH_Casique Aramare_Puerto Ayacucho
+MER_Castle_Merced
+YCG_Castlegar_Castlegar
+HPH_Cat Bi International Airport_Haiphong
+YAC_Cat Lake Airport_Cat Lake
+TCE_Cataloi_Tulcea
+CTC_Catamarca_Catamarca
+CTA_Catania Fontanarossa_Catania
+IGR_Cataratas Del Iguazu_Iguazu Falls
+IGU_Cataratas Intl_Foz Do Iguacu
+CRM_Catarman National Airport_Catarman
+CBT_Catumbela Airport_Catumbela
+LQM_Caucaya Airport_Puerto LeguÃ­zamo
+AVN_Caumont_Avignon
+CNM_Cavern City Air Terminal_Carlsbad
+CUK_Caye Caulker Airport_Caye Caulker
+CCC_Cayo Coco Airport_Cayo Coco
+CDC_Cedar City Rgnl_Cedar City
+CID_Cedar Rapids_Cedar Rapids
+CED_Ceduna Airport_\N
+ZCN_Celle_Celle
+APA_Centennial_Denver
+BMI_Central Illinois Rgnl_Bloomington
+GRI_Central Nebraska Regional Airport_Grand Island
+CWA_Central Wisconsin_Wassau
+RTW_Central_Saratov
+ANF_Cerro Moreno Intl_Antofagasta
+JCU_Ceuta Heliport_Ceuta
+XBK_Ceyzeriat_Bourg
+VAF_Chabeuil_Valence
+ARI_Chacalluta_Arica
+CHH_Chachapoyas_Chachapoyas
+ATF_Chachoan_Ambato
+ZBR_Chah Bahar_Chah Bahar
+WCH_Chaiten_Chaiten
+ISB_Chaklala_Islamabad
+RHE_Champagne_Reims
+CMI_Champaign_Champaign
+XCD_Champforgeuil_Chalon
+IXC_Chandigarh_Chandigarh
+BDP_Chandragadhi Airport_\N
+KHN_Changbei Intl_Nanchang
+CGQ_Changchun_Changchun
+CGD_Changde Airport_Changde
+FOC_Changle_Fuzhou
+CIH_Changzhi Airport_Changzhi
+CZX_Changzhou_Changzhou
+LEC_Chapada Diamantina Airport_LenÃ§Ã³is
+YMT_Chapais Airport_Chibougamau
+XAP_Chapeco_Chapeco
+YLD_Chapleau_Chapleau
+CDG_Charles De Gaulle_Paris
+CHS_Charleston Afb Intl_Charleston
+CTL_Charleville_Charlieville
+YCL_Charlo_Charlo
+CLT_Charlotte Douglas Intl_Charlotte
+CHO_Charlottesville-Albemarle_Charlottesville VA
+YYG_Charlottetown_Charlottetown
+VHY_Charmeil_Vichy
+QNX_Charnay_Macon
+CNG_Chateaubernard_Cognac
+CHT_Chatham Islands_Chatham Island
+HRJ_Chaurjhari_Chaurjhari
+CSY_Cheboksary Airport_Cheboksary
+GEO_Cheddi Jagan Intl_Georgetown
+TEE_Cheikh Larbi Tebessi_Tebessa
+MAA_Chennai Intl_Madras
+CJJ_Cheongju International Airport_\N
+CEE_Cherepovets Airport_Cherepovets
+AHU_Cherif El Idrissi_Al Hociema
+CWC_Chernivtsi International Airport_\N
+TVC_Cherry Capital Airport_Traverse City
+NKT_Cherry Point Mcas_Cherry Point
+CYX_Cherskiy Airport_Cherskiy
+VOZ_Chertovitskoye_Voronezh
+YCS_Chesterfield Inlet Airport_Chesterfield Inlet
+CTM_Chetumal Intl_Chetumal
+VAK_Chevak Airport_Chevak
+YHR_Chevery Airport_Chevery
+CYS_Cheyenne Rgnl Jerry Olson Fld_Cheyenne
+BOM_Chhatrapati Shivaji Intl_Bombay
+CNX_Chiang Mai Intl_Chiang Mai
+CEI_Chiang Rai Intl_Chiang Rai
+CYI_Chiayi_Chiayi
+MDW_Chicago Midway Intl_Chicago
+ORD_Chicago Ohare Intl_Chicago
+RFD_Chicago Rockford International Airport _Rockford
+CIC_Chico Muni_Chico
+CIF_Chifeng Airport_Chifeng
+CDS_Childress Muni_Childress
+CCH_Chile Chico_Chile Chico
+BLZ_Chileka Intl_Blantyre
+YCW_Chilliwack_Chilliwack
+CMU_Chimbu Airport_Kundiawa
+VPY_Chimoio Airport_\N
+TRR_China Bay_Trinciomalee
+NID_China Lake Naws_China
+ULN_Chinggis Khaan Intl_Ulan Bator
+N/A_Chintheche_Chintheche
+JKH_Chios_Chios
+CIP_Chipata Airport_Chipata
+CIU_Chippewa County International Airport_Sault Ste Marie
+EAU_Chippewa Valley Regional Airport_Eau Claire
+YKU_Chisasibi Airport_Chisasibi
+HIB_Chisholm Hibbing_Hibbing
+KIV_Chisinau Intl_Kichinau Fir/acc/com
+SPK_Chitose_Chitose
+CJL_Chitral Airport_Chitral
+CKH_Chokurdakh Airport_Chokurdah
+YZR_Chris Hadfield_Sarnia
+CHC_Christchurch Intl_Christchurch
+XCH_Christmas Island_Christmas Island
+CXI_Christmas Island_Kiritimati
+VCL_Chu Lai_Chu Lai
+CCZ_Chub Cay_Chub Cay
+NGO_Chubu Centrair Intl_Nagoya
+CNN_Chulman Airport_Chulman
+CJM_Chumphon_Chumphon
+ZUM_Churchill Falls Airport_Churchill Falls
+YYQ_Churchill_Churchill
+TKK_Chuuk Intl_Chuuk
+CIA_Ciampino_Rome
+STI_Cibao Intl_Santiago
+ICI_Cicia Airport_Cicia
+IGL_Cigli_Izmir
+LUK_Cincinnati Muni Lunken Fld_Cincinnati
+CVG_Cincinnati Northern Kentucky Intl_Cincinnati
+YTZ_City Centre_Toronto
+COS_City Of Colorado Springs Muni_Colorado Springs
+BHD_City_Belfast
+LCY_City_London
+CBL_Ciudad Bolivar_Ciudad Bolivar
+CUA_Ciudad ConstituciÃ³n Airport_Ciudad ConstituciÃ³n
+CME_Ciudad Del Carmen Intl_Ciudad Del Carmen
+CEN_Ciudad Obregon Intl_Ciudad Obregon
+CQM_Ciudad Real_Ciudad Real
+AGT_Ciudad del Este_Ciudad del Este
+Z84_Clear_Clear Mews
+CLE_Cleveland Hopkins Intl_Cleveland
+CNJ_Cloncurry Airport_\N
+CVN_Clovis Muni_Clovis
+CMK_Club Makokola Airport_Club Makokola
+CLJ_Cluj Napoca_Cluj-napoca
+YCY_Clyde River_Clyde River
+VCS_Co Ong Airport_\N
+CBV_Coban_Coban
+CAZ_Cobar Airport_\N
+COK_Cochin_Cochin
+CNC_Coconut Island Airport_\N
+CCK_Cocos Keeling Island Airport_\N
+BBQ_Codrington Airport_Codrington
+CUQ_Coen Airport_\N
+CFS_Coffs Harbour_Coff's Harbour
+CJB_Coimbatore_Coimbatore
+CDB_Cold Bay_Cold Bay
+YOD_Cold Lake_Cold Lake
+DET_Coleman A Young Muni_Detroit
+CLQ_Colima_Colima
+QKL_Cologne Railway_Cologne
+RML_Colombo Ratmalana_Colombo
+CRI_Colonel Hill Airport_\N
+CAE_Columbia Metropolitan_Colombia
+COU_Columbia Rgnl_Columbia
+CBM_Columbus Afb_Colombus
+CSG_Columbus Metropolitan Airport_Columbus
+YCK_Colville Lake Airport_Colville Lake
+BHI_Comandante Espora_Bahia Blanca
+ATA_Comandante Fap German Arias Graziani_Anta
+BGX_Comandante Gustavo Kraemer_Bage
+DSE_Combolcha Airport_Dessie
+COC_Comodoro Pierrestegui_Concordia
+CRD_Comodoro Rivadavia_Comodoro Rivadavia
+YQQ_Comox_Comox
+CKY_Conakry_Conakry
+CDJ_Conceicao Do Araguaia_Conceicao Do Araguaia
+CON_Concord Municipal_Concord NH
+WSD_Condron Aaf_White Sands
+COX_Congo Town Airport_Andros
+CGH_Congonhas_Sao Paulo
+QCY_Coningsby_Coningsby
+NOC_Connaught_Connaught
+OTD_Contadora Airport_Contadora Island
+CPD_Coober Pedy Airport_\N
+COH_Cooch Behar_Cooch-behar
+CTN_Cooktown Airport_\N
+OOM_Cooma Snowy Mountains Airport_\N
+CNB_Coonamble Airport_\N
+CPO_Copiapo_Copiapo
+ODB_Cordoba_Cordoba
+ORK_Cork_Cork
+POX_Cormeilles En Vexin_Pontoise
+YCT_Coronation_Coronation
+TCQ_Coronel Carlos Ciriani Santa Rosa Intl_Tacna
+XMS_Coronel E Carvajal_Macas
+AYP_Coronel Fap Alfredo Mendivil Duarte_Ayacucho
+IQT_Coronel Francisco Secada Vignetta Intl_Iquitos
+CRP_Corpus Christi Intl_Corpus Christi
+CNQ_Corrientes_Corrientes
+CEZ_Cortez Muni_Cortez
+CMG_Corumba Intl_Corumba
+CVU_Corvo Airport_Corvo
+CEB_Cotabato_Cebu
+CBO_Cotabato_Cotabato
+NCE_Cote D Azur_Nice
+OTR_Coto 47_Coto 47
+COT_Cotulla Lasalle Co_Cotulla
+CFD_Coulter Fld_Bryan
+CVT_Coventry_Coventry
+CXB_Coxs Bazar_Cox's Bazar
+CZM_Cozumel Intl_Cozumel
+CCV_Craig Cove Airport_Craig Cove
+SEM_Craig Fld_Selma
+CRA_Craiova_Craiova
+EWN_Craven Co Rgnl_New Bern
+INS_Creech Afb_Indian Springs
+CSF_Creil_Creil
+JCA_Croisette Heliport_Cannes
+CRV_Crotone_Crotone
+TAB_Crown Point_Scarborough
+CZS_Cruzeiro Do Sul_Cruiziro Do Sul
+CDP_Cuddapah_Cuddapah
+CUL_Culiacan Intl_Culiacan
+CMA_Cunnamulla Airport_\N
+CTB_Cut Bank Muni_Cutbank
+CGF_Cuyahoga County_Richmond Heights
+CYU_Cuyo Airport_Cuyo
+STT_Cyril E King_St. Thomas
+SIQ_Dabo_Singkep
+DAX_Dachuan Airport_Dazhou
+TNT_Dade Collier Training And Transition_Miami
+TAE_Daegu Ab_Taegu
+VIL_Dakhla Airport_Dakhla
+DLM_Dalaman_Dalaman
+DLZ_Dalanzadgad Airport_\N
+DLI_Dalat_Dalat
+DBA_Dalbandin Airport_Dalbandin
+DHT_Dalhart Muni_Dalhart
+DLU_Dali_Dali
+DFW_Dallas Fort Worth Intl_Dallas-fort Worth
+DAL_Dallas Love Fld_Dallas
+DJO_Daloa_Daloa
+NMB_Daman_Daman
+DAM_Damascus Intl_Damascus
+DAD_Danang Intl_Danang
+MSN_Dane Co Rgnl Truax Fld_Madison
+LIR_Daniel Oduber Quiros Intl_Liberia
+TAC_Daniel Z Romualdez_Tacloban
+NLF_Darnley Island Airport_Darnley Island
+DAU_Daru Airport_\N
+DRW_Darwin Intl_Darwin
+DTD_Datadawai Airport_Datadawai-Borneo Island
+DAT_Datong Airport_Datong
+YDN_Dauphin Barker_Dauphin
+DWH_David Wayne Hooks Field_Houston
+MKO_Davis Fld_Muskogee
+DMA_Davis Monthan Afb_Tucson
+DWD_Dawadmi Domestic Airport_Dawadmi
+TVY_Dawei Airport_Dawei
+YDA_Dawson City_Dawson
+YDQ_Dawson Creek_Dawson Creek
+DYG_Dayong Airport_Dayong
+DAB_Daytona Beach Intl_Daytona Beach
+DHR_De Kooy_De Kooy
+SCC_Deadhorse_Deadhorse
+LGI_Deadmans Cay_Dead Man's Cay
+YDL_Dease Lake_Dease Lake
+DEB_Debrecen_Debrecen
+DEC_Decatur_Decatur
+DCI_Decimomannu_Decimomannu
+YVZ_Deer Lake Airport_Deer Lake
+YDF_Deer Lake_Deer Lake
+DED_Dehradun_Dehra Dun
+DEZ_Deir Zzor_Deire Zor
+PMV_Del Caribe Intl Gen Santiago Marino_Porlamar
+CEC_Del Norte County Airport_Crescent City
+NTR_Del Norte Intl_Monterrey
+DRT_Del Rio Intl_Del Rio
+YWJ_Deline_Deline
+DEM_Dembidollo Airport_Dembidollo
+DEN_Denver Intl_Denver
+CHR_Deols_Chateauroux
+PGK_Depati Amir_Pangkal Pinang
+SSA_Deputado Luis Eduardo Magalhaes_Salvador
+DEA_Dera Ghazi Khan Airport_Dera Ghazi Khan
+DSK_Dera Ismael Khan Airport_Dera Ismael Khan
+DSM_Des Moines Intl_Des Moines
+DES_Desroches_Desroches
+DTW_Detroit Metro Wayne Co_Detroit
+ANR_Deurne_Antwerp
+IDR_Devi Ahilyabai Holkar_Indore
+DPO_Devonport Airport_\N
+DBO_Dhanbad_Dhanbad
+DHI_Dhangarhi_Dhangarhi
+RHO_Diagoras_Rhodos
+MOH_Dibrugarh_Mohanbari
+IQQ_Diego Aracena Intl_Iquique
+FAJ_Diego Jimenez Torres_Fajardo
+DIN_Dien Bien Phu Airport_\N
+DLG_Dillingham_Dillingham
+HDH_Dillingham_Dillingham
+DLY_Dillon's Bay Airport_Dillon's Bay
+DMU_Dimapur Airport_\N
+AXD_Dimokritos_Alexandroupolis
+ZTH_Dionysios Solomos_Zakynthos
+NIM_Diori Hamani_Niamey
+CRK_Diosdado Macapagal International_Angeles City
+DPL_Dipolog_Dipolog
+DIG_Diqing Airport_Shangri-La
+DIR_Dire Dawa Intl_Dire Dawa
+DIU_Diu Airport_Diu
+URC_Diwopu_Urumqi
+DIY_Diyarbakir_Diyabakir
+DNK_Dnipropetrovsk Intl_Dnepropetrovsk
+MGE_Dobbins Arb_Marietta
+DDC_Dodge City Regional Airport_Dodge City
+DOD_Dodoma_Dodoma
+DOH_Doha Intl_Doha
+DOP_Dolpa_Dolpa
+MCU_Domerat_Montlucon
+DME_Domodedovo_Moscow - 
+GDL_Don Miguel Hidalgo Y Costilla Intl_Guadalajara
+DMK_Don Muang Intl_Bangkok
+ZQL_Donaueschingen Villingen_Donaueschingen
+CFN_Donegal Airport_Dongloe
+DOK_Donetsk Intl_Donetsk
+VDH_Dong Hoi_Dong Hoi
+TBB_Dong Tac_Tuy Hoa
+DOG_Dongola_Dongola
+HLD_Dongshan_Hailar
+DOY_Dongying Airport_Dongying
+DMD_Doomadgee Airport_\N
+DTM_Dortmund_Dortmund
+DHN_Dothan Rgnl_Dothan
+DLA_Douala_Douala
+DOV_Dover Afb_Dover
+YZD_Downsview_Toronto
+NAG_Dr Ambedkar Intl_Nagpur
+VLV_Dr Antonio Nicolas Briceno_Valera
+JBQ_Dr Joaquin Balaguer International Airport_La Isabela
+FYV_Drake Fld_Fayetteville
+TPL_Draughon Miller Central Texas Rgnl_Temple
+DRS_Dresden_Dresden
+YHD_Dryden Rgnl_Dryden
+DUJ_DuBois Regional Airport_Du Bois
+DXB_Dubai Intl_Dubai
+DUB_Dublin_Dublin
+DBV_Dubrovnik_Dubrovnik
+DBQ_Dubuque Rgnl_Dubuque IA
+DLH_Duluth Intl_Duluth
+DGT_Dumaguete_Dumaguete
+LUV_Dumatumbun Airport_Langgur-Seram Island
+DND_Dundee_Dundee
+DUE_Dundo Airport_\N
+DUD_Dunedin_Dunedin
+DNH_Dunhuang Airport_Dunhuang
+PQC_Duong Dong Airport_Phu Quoc
+DPA_Dupage_West Chicago
+DGO_Durango Intl_Durango
+DRO_Durango La Plata Co_Durango
+DUR_Durban Intl_Durban
+MME_Durham Tees Valley Airport_Teesside
+DYU_Dushanbe_Dushanbe
+DUS_Dusseldorf_Duesseldorf
+ABZ_Dyce_Aberdeen
+DYS_Dyess Afb_Abilene
+DZA_Dzaoudzi Pamandzi_Dzaoudzi
+SVD_E T Joshua_Kingstown
+ELE_EL Real Airport_El Real
+EGE_Eagle Co Rgnl_Vail
+SYA_Eareckson As_Shemya
+TSS_East 34th Street Heliport_New York
+ELS_East London_East London
+GGG_East Texas Rgnl_Longview
+CLL_Easterwood Fld_College Station
+ZEM_Eastmain River Airport_Eastmain River
+QAS_Ech Cheliff_Ech-cheliff
+EOI_Eday Airport_Eday
+EDI_Edinburgh_Edinburgh
+YXD_Edmonton City Centre_Edmonton
+YEG_Edmonton Intl_Edmonton
+YET_Edson_Edson
+SVI_Eduardo Falla Solano_San Vincente De Caguan
+MAO_Eduardo Gomes Intl_Manaus
+LYB_Edward Bodden Airfield_Little Cayman
+MPV_Edward F Knapp State_Montpelier
+GAL_Edward G Pitka Sr_Galena
+EDW_Edwards Afb_Edwards Afb
+GRQ_Eelde_Groningen
+HGA_Egal Intl_Hargeisa
+QEF_Egelsbach_Egelsbach
+EGS_Egilsstadir_Egilsstadir
+VPS_Eglin Afb_Valparaiso
+EIL_Eielson Afb_Fairbanks
+ETH_Eilat_Elat
+EIN_Eindhoven_Eindhoven
+YOA_Ekati_Ekati
+EYP_El AlcaravÃ¡n Airport_Yopal
+LPB_El Alto Intl_La Paz
+AAC_El Arish International Airport_\N
+NDR_El Aroui Airport_\N
+EHL_El Bolson_El Bolson
+EBM_El Borma_El Borma
+FTE_El Calafate_El Calafate
+ECA_El Calafate_El calafate
+UIB_El Carano_Quibdo
+NJK_El Centro Naf_El Centro
+AXM_El Eden_Armenia
+PVA_El Embrujo_Providencia
+ELF_El Fashir_El Fasher
+ELG_El Golea_El Golea
+MDO_El Jaguel / Punta del Este Airport_Maldonado
+CJC_El Loa_Calama
+ENI_El Nido Airport_El Nido
+EBD_El Obeid_El Obeid
+ELP_El Paso Intl_El Paso
+MDZ_El Plumerillo_Mendoza
+SAL_El Salvador Intl_San Salvador
+KOE_El Tari_Kupang
+PMY_El Tehuelche_Puerto Madryn
+PMC_El Tepual Intl_Puerto Montt
+ELT_El Tor_El-tor
+NZJ_El Toro_Santa Ana
+EZS_Elazig_Elazig
+ELC_Elcho Island Airport_\N
+BOG_Eldorado Intl_Bogota
+EDL_Eldoret Intl_Eldoret
+ATH_Eleftherios Venizelos Intl_Athens
+ESL_Elista Airport_Elista
+ECG_Elizabeth City Cgas Rgnl_Elizabeth City
+EKN_Elkins Randolph Co Jennings Randolph_Elkins
+EKO_Elko Regional Airport_Elko
+EFD_Ellington Fld_Houston
+RCA_Ellsworth Afb_Rapid City
+CAG_Elmas_Cagliari
+EDF_Elmendorf Afb_Anchorage
+ELM_Elmira Corning Rgnl_Elmira
+MEC_Eloy Alfaro Intl_Manta
+SBO_Emanuel Co_Santa Barbara
+EME_Emden_Emden
+KJA_Emelyanovo_Krasnoyarsk
+EMD_Emerald_Emerald
+1Z8_Enewetak Aux Af_Eniwetok Island
+ENT_Eniwetok Airport_Eniwetok Atoll
+ENF_Enontekio_Enontekio
+ONX_Enrique Adolfo Jimenez Airport_ColÃ³n
+DAV_Enrique Malek Intl_David
+ESE_Ensenada_Ensenada
+ENH_Enshi Airport_Enshi
+EBB_Entebbe Intl_Entebbe
+LVA_Entrammes_Laval
+SXB_Entzheim_Strassbourg
+ENU_Enugu_Enugu
+BII_Enyu Airfield_Bikini Atoll
+OMA_Eppley Afld_Omaha
+EBL_Erbil Intl_Erbil
+ECN_Ercan International Airport_Nicosia
+ERF_Erfurt_Erfurt
+MLX_Erhac_Malatya
+ERI_Erie Intl Tom Ridge Fld_Erie
+ASR_Erkilet_Kayseri
+PRC_Ernest A Love Fld_Prescott
+BAQ_Ernesto Cortissoz_Barranquilla
+ERS_Eros Airport_Windhoek
+ERC_Erzincan_Erzincan
+ERZ_Erzurum_Erzurum
+ORN_Es Senia_Oran
+EBJ_Esbjerg_Esbjerg
+MYC_Escuela Mariscal Sucre Airport_Maracay
+ESB_Esenboga_Ankara
+IFN_Esfahan Shahid Beheshti Intl_Isfahan
+ESK_Eskisehir_Eskisehir
+ESF_Esler Rgnl_Alexandria
+EPR_Esperance Airport_\N
+EQS_Esquel_Esquel
+ESS_Essen Mulheim_Essen
+ENC_Essey_Nancy
+YEN_Estevan_Estevan
+ANK_Etimesgut_Ankara
+MAZ_Eugenio Maria De Hostos_Mayaguez
+YEU_Eureka_Eureka
+BSL_EuroAirport Basel-Mulhouse-Freiburg_Basel-Mulhouse-Freiburg
+EVV_Evansville Regional_Evansville
+EVE_Evenes_Evenes
+ORL_Executive_Orlando
+EXT_Exeter_Exeter
+GGT_Exuma Intl_Great Exuma
+EUX_F D Roosevelt_Oranjestad
+PPT_Faa\\'a International_Papeete
+MVP_Fabio Alberto Leon Bentley_Mitu
+FGI_Fagali\\'i_Apia
+FIE_Fair Isle Airport_Fair Isle
+FAI_Fairbanks Intl_Fairbanks
+SKA_Fairchild Afb_Spokane
+FFD_Fairford_Fairford
+YZS_Fairmont Hot Springs_Coral Harbour
+LYP_Faisalabad Intl_Faisalabad
+FBD_Faizabad Airport_Faizabad
+FKQ_Fak Fak_Fak Fak
+FAV_Fakarava_Fakarava
+AOI_Falconara_Ancona
+APW_Faleolo Intl_Faleolo
+NFL_Fallon Nas_Fallon
+INL_Falls Intl_International Falls
+RVA_Farafangana_Farafangana
+FAA_Faranah_Faranah
+ULQ_Farfan_Tulua
+FAB_Farnborough_Farnborough
+ZFA_Faro_Faro
+FAO_Faro_Faro
+NOS_Fascene_Nosy-be
+BKS_Fatmawati Soekarno_Bengkulu
+FYT_Faya Largeau_Faya-largeau
+FAY_Fayetteville Regional Grannis Field_Fayetteville
+FAF_Felker Aaf_Fort Eustis
+SFF_Felts Fld_Spokane
+TTT_Fengnin_Fengnin
+FRE_Fera/Maringe Airport_Fera Island
+FEG_Fergana Airport_Fergana
+BUD_Ferihegy_Budapest
+FEN_Fernando De Noronha_Fernando Do Noronha
+SIG_Fernando Luis Ribas Dominicci_San Juan
+WFI_Fianarantsoa_Fianarantsoa
+KZI_Filippos_Kozani
+FLR_Firenze_Firenze
+FCO_Fiumicino_Rome
+FLG_Flagstaff Pulliam Airport_Flagstaff
+BON_Flamingo_Kralendijk
+BGO_Flesland_Bergen
+YFO_Flin Flon_Flin Flon
+FLS_Flinders Island Airport_\N
+FLO_Florence Rgnl_Florence
+FLW_Flores_Flores (flores Isl.)
+FRO_Floro_Floro
+AAH_Flugplatz Merzbrueck_Aachen
+ZFD_Fond-Du-Lac Airport_Fond-Du-Lac
+FOE_Forbes Fld_Topeka
+FDE_Forde Bringeland_Forde
+FRL_Forli_Forli
+FMA_Formosa_Formosa
+FBU_Fornebu_Oslo
+YFA_Fort Albany Airport_Fort Albany
+YPY_Fort Chipewyan_Fort Chipewyan
+FNL_Fort Collins Loveland Muni_F
+FOD_Fort Dodge Rgnl_Fort Dodge
+YAG_Fort Frances Municipal Airport_Fort Frances
+YGH_Fort Good Hope_Fort Good Hope
+YFH_Fort Hope Airport_Fort Hope
+FXE_Fort Lauderdale Executive_Fort Lauderdale
+FLL_Fort Lauderdale Hollywood Intl_Fort Lauderdale
+YMM_Fort Mcmurray_Fort Mcmurray
+ZFM_Fort Mcpherson_Fort Mcpherson
+YYE_Fort Nelson_Fort Nelson
+YFR_Fort Resolution_Fort Resolution
+YER_Fort Severn Airport_Fort Severn
+YFS_Fort Simpson_Fort Simpson
+FSM_Fort Smith Rgnl_Fort Smith
+YSM_Fort Smith_Fort Smith
+YXJ_Fort St John_Fort Saint John
+FST_Fort Stockton Pecos Co_Fort Stockton
+FWA_Fort Wayne_Fort Wayne
+FTW_Fort Worth Meacham Intl_Fort Worth
+FYU_Fort Yukon_Fort Yukon
+FOA_Foula Airport_Foula
+FOM_Foumban Nkounja_Foumban
+FMN_Four Corners Rgnl_Farmington
+NVS_Fourchambault_Nevers
+NVK_Framnes_Narvik
+FOK_Francis S Gabreski_West Hampton Beach
+DVO_Francisco Bangoy International_Davao
+SPN_Francisco C Ada Saipan Intl_Saipan
+JDF_Francisco De Assis_Juiz De Fora
+OCC_Francisco De Orellana_Coca
+FRW_Francistown_Francistown
+HOG_Frank Pais Intl_Holguin
+MLS_Frank Wiley Field_Miles City
+HHN_Frankfurt Hahn_Hahn
+FRA_Frankfurt Main_Frankfurt
+FKL_Franklin_Franklin
+BIK_Frans Kaisiepo_Biak
+YFC_Fredericton_Fredericton
+FNA_Freetown Lungi_Freetown
+MZM_Frescaty_Metz
+ASD_Fresh Creek_Andros Town
+FAT_Fresno Yosemite Intl_Fresno
+FIG_Fria_Fira
+FDH_Friedrichshafen_Friedrichshafen
+TBU_Fua Amotu Intl_Tongatapu
+FUE_Fuerteventura_Fuerteventura
+FJR_Fujairah Intl_Fujeirah
+FUJ_Fukue_Fukue
+FUK_Fukuoka_Fukuoka
+FKS_Fukushima Airport_\N
+FUN_Funafuti International_Funafuti
+FEL_Furstenfeldbruck_Fuerstenfeldbruck
+FTA_Futuna Airport_Futuna Island
+GAE_Gabes_Gabes
+GAF_Gafsa_Gafsa
+GNV_Gainesville Rgnl_Gainesville
+GLK_Galcaio Airport_Galcaio
+GIG_Galeao Antonio Carlos Jobim_Rio De Janeiro
+BZN_Gallatin Field_Bozeman
+GEV_Gallivare_Gallivare
+GUP_Gallup Muni_Gallup
+GWY_Galway_Galway
+TOB_Gamal Abdel Nasser Airport_Tobruk
+GAX_Gamba_Gamba
+GMB_Gambella_Gambella
+GAN_Gan Island Airport_\N
+YQX_Gander Intl_Gander
+KAG_Gangneung_Kangnung
+KVD_Ganja Airport_Ganja
+KOW_Ganzhou Airport_Ganzhou
+GAQ_Gao_Gao
+XMN_Gaoqi_Xiamen
+SRX_Gardabya Airport_Sirt
+GCK_Garden City Rgnl_Garden City
+OSL_Gardermoen_Oslo
+FNI_Garons_Nimes
+GOU_Garoua_Garoua
+GMI_Gasmata Island Airport_Gasmata Island
+YGP_Gaspe_Gaspe
+ELQ_Gassim_Gassim
+YND_Gatineau_Gatineau
+GTA_Gatokae Airport_Gatokae
+LGW_Gatwick_London
+ZGU_Gaua Island Airport_Gaua Island
+GVX_Gavle_Gavle
+GAY_Gaya_Gaya
+BDT_Gbadolite_Gbadolite
+GKE_Geilenkirchen_Geilenkirchen
+SKE_Geiteryggen_Skien
+GMA_Gemena_Gemena
+TIJ_General Abelardo L Rodriguez Intl_Tijuana
+PBL_General Bartolome Salom Intl_Puerto Cabello
+BOS_General Edward Lawrence Logan Intl_Boston
+TTG_General Enrique Mosconi Airport_Tartagal
+MLM_General Francisco J Mujica Intl_Morelia
+TAM_General Francisco Javier Mina Intl_Tampico
+VER_General Heriberto Jara Intl_Vera Cruz
+HMO_General Ignacio P Garcia Intl_Hermosillo
+BLA_General Jose Antonio Anzoategui Intl_Barcelona
+CUP_General Jose Francisco Bermudez_Carupano
+GYM_General Jose Maria Yanez Intl_Guaymas
+ACA_General Juan N Alvarez Intl_Acapulco
+ZCL_General Leobardo C Ruiz Intl_Zacatecas
+REX_General Lucio Blanco Intl_Reynosa
+CGU_General Manuel Carlos Piar_Ciudad Guayana
+PZO_General Manuel Carlos Piar_Guayana
+LAP_General Manuel Marquez De Leon Intl_La Paz
+MCH_General Manuel Serrano_Machala
+MTY_General Mariano Escobedo Intl_Monterrey
+CVJ_General Mariano Matamoros_Cuernavaca
+MKE_General Mitchell Intl_Milwaukee
+CVM_General Pedro Jose Mendez Intl_Ciudad Victoria
+CUU_General R Fierro Villalobos Intl_Chihuahua
+MZT_General Rafael Buelna Intl_Mazatlan
+ESM_General Rivadeneira Airport_Tachina
+MXL_General Rodolfo Sanchez Taboada Intl_Mexicali
+GES_General Santos International Airport_General Santos City
+MAM_General Servando Canales Intl_Matamoros
+SNC_General Ulpiano Paez_Salinas
+PRA_General Urquiza_Parana
+GVA_Geneva Cointrin_Geneva
+GOA_Genova Sestri_Genoa
+IAH_George Bush Intcntl Houston_Houston
+SLU_George F L Charles_Castries
+GRJ_George_George
+GRR_Gerald R Ford Intl_Grand Rapids
+MNI_Geralds Airport_Geralds
+GET_Geraldton Airport_\N
+YGQ_Geraldton Greenstone Regional_Geraldton
+BUN_Gerardo Tobar Lopez_Buenaventura
+CYB_Gerrard Smith Intl_Cayman Barac
+LTD_Ghadames East_Ghadames
+GNZ_Ghanzi Airport_Ghanzi
+GHT_Ghat_Ghat
+GSM_Gheshm Airport_Gheshm
+MUW_Ghriss_Ghriss
+GIB_Gibraltar_Gibraltar
+GHF_Giebelstadt Aaf_Giebelstadt
+GIL_Gilgit_Gilgit
+YGX_Gillam Airport_Gillam
+GCC_Gillette-Campbell County Airport_Gillette
+PUS_Gimhae Intl_Kimhae
+GMP_Gimpo_Seoul
+FOG_Gino Lisa_Foggia
+GRO_Girona_Gerona
+PNP_Girua Airport_\N
+GIS_Gisborne_Gisborne
+GYI_Gisenyi_Gisenyi
+YHK_Gjoa Haven_Gjoa Haven
+FCA_Glacier Park Intl_Kalispell
+GLT_Gladstone Airport_\N
+GLA_Glasgow_Glasgow
+MON_Glentanner_Glentanner
+GLO_Gloucestershire_Golouchestershire
+LFW_Gnassingbe Eyadema Intl_Lome
+GOI_Goa_Goa
+VDM_Gobernador Castello_Viedma
+GGS_Gobernador Gregores Airport_Gobernador Gregores
+GDE_Gode Airport_Gode
+GCE_Gode_Gode
+FTK_Godman Aaf_Fort Knox
+MPH_Godofredo P_Caticlan
+YGO_Gods Lake Narrows Airport_Gods Lake Narrows
+ZGI_Gods River Airport_Gods River
+VIX_Goiabeiras_Vitoria
+OOL_Gold Coast_Coolangatta
+GTR_Golden Triangle Regional Airport_Columbus Mississippi
+SZZ_Goleniow_Szczechin
+GLF_Golfito_Golfito
+GOQ_Golmud Airport_Golmud
+LCE_Goloson Intl_La Ceiba
+GOM_Goma_Goma
+GME_Gomel_Gomel
+GDQ_Gondar_Gondar
+YYR_Goose Bay_Goose Bay
+YOP_Gorakhpur_Gorakhpur
+GOR_Gore Airport_Gore
+YZE_Gore Bay Manitoulin_Gore Bay
+GOZ_Gorna Oryahovitsa_Gorna Orechovica
+GKA_Goroka_Goroka
+GDA_Gounda Airport_Gounda
+GOV_Gove Airport_\N
+PVH_Governador Jorge Teixeira De Oliveira_Porto Velho
+GHB_Governors Harbour_Governor's Harbor
+GRW_Graciosa_Graciosa Island
+LPA_Gran Canaria_Gran Canaria
+FPO_Grand Bahama Intl_Freeport
+GCN_Grand Canyon National Park Airport_Grand Canyon
+SFG_Grand Case_St. Martin
+GCJ_Grand Central_Johannesburg
+RDR_Grand Forks Afb_Red River
+GFK_Grand Forks Intl_Grand Forks
+GJT_Grand Junction Regional_Grand Junction
+YQU_Grande Prairie_Grande Prairie
+MWH_Grant Co Intl_Grant County Airport
+SVC_Grant County Airport_Silver City
+BGI_Grantley Adams Intl_Bridgetown
+GNT_Grants Milan Muni_Grants
+GRF_Gray Aaf_Fort Lewis
+GRZ_Graz_Graz
+GTF_Great Falls Intl_Great Falls
+BGM_Greater Binghamton Edwin A Link Fld_Binghamton
+IKK_Greater Kankakee_Kankakee
+YQM_Greater Moncton Intl_Moncton
+ROC_Greater Rochester Intl_Rochester
+GSP_Greenville-Spartanburg International_Greenville
+GWO_Greenwood Leflore_Greenwood
+YZX_Greenwood_Greenwood
+POP_Gregorio Luperon Intl_Puerto Plata
+PBF_Grider Fld_Pine Bluff
+SKY_Griffing Sandusky_Sandusky
+RME_Griffiss Afld_Rome
+GFF_Griffith Airport_\N
+YGZ_Grise Fiord Airport_Grise Fiord
+GUS_Grissom Arb_Peru
+JGR_Groennedal Heliport_Groennedal
+GTE_Groote Eylandt Airport_\N
+GRS_Grosseto_Grosseto
+GON_Groton New London_Groton CT
+TAR_Grottaglie_Grottaglie
+GRV_Grozny Airport_Grozny
+GRY_GrÃ­msey Airport_GrÃ­msey
+GHU_Gualeguaychu_Gualeguaychu
+GUM_Guam Intl_Agana
+GJA_Guanaja_Guanaja
+BJX_Guanajuato Intl_Del Bajio
+GUQ_Guanare_Guanare
+GYS_Guangyuan Airport_Guangyuan
+REC_Guararapes Gilberto Freyre Intl_Recife
+GRU_Guarulhos Gov Andre Franco Montouro_Sao Paulo
+ELU_Guemar Airport_\N
+GCI_Guernsey_Guernsey
+GUB_Guerrero Negro Airport_Guerrero Negro
+PPN_Guillermo Leon Valencia_Popayan
+BES_Guipavas_Brest
+GUI_Guiria_Guiria
+GPT_Gulfport-Biloxi_Gulfport
+GKN_Gulkana_Gulkana
+ULU_Gulu Airport_Gulu
+VOG_Gumrak_Volgograd
+GUC_Gunnison_Gunnison
+URY_Guriat_Guriat
+GUR_Gurney Airport_\N
+QUS_Gusau_Gusau
+FLA_Gustavo Artunduaga Paredes_Florencia
+BCA_Gustavo Rizo_Baracoa Playa
+ADZ_Gustavo Rojas Pinilla_San Andres Island
+GST_Gustavus Airport_Gustavus
+GUT_Gutersloh_Guetersloh
+GWD_Gwadar_Gwadar
+GWL_Gwalior_Gwalior
+KWJ_Gwangju_Kwangju
+GWE_Gweru Thornhill_Gwert
+LWN_Gyumri_Gyumri
+QGY_GyÅ‘r-PÃ©r International Airport_GyÅ‘r
+TJQ_H As Hanandjoeddin_Tanjung Pandan
+ENE_H Hasan Aroeboesman_Ende
+MIR_Habib Bourguiba Intl_Monastir
+HAC_Hachijojima_Hachijojima
+HFS_Hagfors Airport_\N
+HFA_Haifa_Haifa
+HAS_Hail_Hail
+HNS_Haines Airport_Haines
+HKD_Hakodate_Hakodate
+YHZ_Halifax Intl_Halifax
+HLP_Halim Perdanakusuma International Airport_Jakarta
+YUX_Hall Beach_Hall Beach
+KEV_Halli_Halli
+HAD_Halmstad_Halmstad
+XFW_Hamburg Finkenwerder_Hamburg
+HAM_Hamburg_Hamburg
+HTI_Hamilton Island Airport_\N
+YHM_Hamilton_Hamilton
+HLZ_Hamilton_Hamilton
+HNM_Hana_Hana
+HNA_Hanamaki_Hanamaki
+ZNF_Hanau Aaf_Hanau
+BHB_Hancock County - Bar Harbor_Bar Harbor
+BTH_Hang Nadim_Batam
+HAQ_Hanimaadhoo Airport_Haa Dhaalu Atoll
+HAJ_Hannover_Hannover
+HZG_Hanzhong Airport_Hanzhong
+HOI_Hao_Hao Island
+HRE_Harare Intl_Harare
+MDT_Harrisburg Intl_Harrisburg
+CKB_Harrison Marion Regional Airport_Clarksburg
+HFD_Hartford Brainard_Hartford
+VSF_Hartness State_Springfield VT
+ATL_Hartsfield Jackson Atlanta Intl_Atlanta
+UPG_Hasanuddin_Ujung Pandang
+EUN_Hassan I Airport_El AaiÃºn
+HRM_Hassi R Mel_Tilrempt
+HAA_Hasvik_Hasvik
+HDY_Hat Yai Intl_Songkhla
+CUR_Hato_Willemstad
+PIB_Hattiesburg Laurel Regional Airport_Hattiesburg/Laurel
+HVR_Havre City Co_Havre
+CEG_Hawarden_Hawarden
+YHY_Hay River_Hay River
+HIS_Hayman Island Airport_Hayman Island
+LHR_Heathrow_London
+FAR_Hector International Airport_Fargo
+HEH_Heho_Heho
+HEI_Heide-BÃ¼sum Airport_BÃ¼sum
+HEK_Heihe Airport_Heihe
+HLN_Helena Rgnl_Helena
+HGL_Helgoland-DÃ¼ne Airport_Helgoland
+HEM_Helsinki Malmi_Helsinki
+HEL_Helsinki Vantaa_Helsinki
+HMV_Hemavan Airport_\N
+HCN_Hengchun Airport_\N
+OTP_Henri Coanda_Bucharest
+STX_Henry E Rohlsen_St. Criox Island
+FSI_Henry Post Aaf_Fort Sill
+HEA_Herat_Herat
+FLN_Hercilio Luz_Florianopolis
+HDF_Heringsdorf Airport_\N
+VTU_Hermanos Ameijeiras_Las Tunas
+PBC_Hermanos Serdan Intl_Puebla
+CIJ_Heroes Del Acre_Cobija
+HVB_Hervey Bay Airport_Hervey Bay
+UVF_Hewanorra Intl_Hewandorra
+BAK_Heydar Aliyev_Baku
+GYD_Heydar Aliyev_Baku
+HKY_Hickory Rgnl_Hickory
+VDE_Hierro_Hierro
+YOJ_High Level_High Level
+HIF_Hill Afb_Ogden
+INJ_Hillsboro Muni_Santa Ana
+ITO_Hilo Intl_Hilo
+HIJ_Hiroshima_Hiroshima
+AUQ_Hiva Oa-Atuona Airport_\N
+HBR_Hobart Muni_Hobart
+HBA_Hobart_Hobart
+HOD_Hodeidah Intl_Hodeidah
+HDS_Hoedspruit Afb_Hoedspruit
+HOQ_Hof Plauen_Hof
+HKK_Hokitika_Hokitika
+HMN_Holloman Afb_Alamogordo
+HCR_Holy Cross Airport_Holy Cross
+HOM_Homer_Homer
+HST_Homestead Arb_Homestead
+HKG_Hong Kong Intl_Hong Kong
+SHA_Hongqiao Intl_Shanghai
+HIR_Honiara International_Honiara
+BEQ_Honington_Honington
+HNL_Honolulu Intl_Hickam Afb
+HLR_Hood Aaf_Fort Hood
+HOK_Hooker Creek Airport_\N
+YHO_Hopedale Airport_Hopedale
+HID_Horn Island Airport_\N
+HFN_Hornafjordur_Hofn
+HOR_Horta_Horta
+HTN_Hotan_Hotan
+ALG_Houari Boumediene_Algier
+CMX_Houghton County Memorial Airport_Hancock
+HUL_Houlton Intl_Houlton
+CMR_Houssen_Colmar
+HOV_Hovden_Orsta-Volda
+HOW_Howard_Howard
+KKN_Hoybuktmoen_Kirkenes
+GNA_Hrodno Airport_Hrodna
+HHQ_Hua Hin_Prachuap Khiri Khan
+HUH_Huahine_Huahine Island
+HUN_Hualien_Hualien
+NOV_Huambo_Huambo
+CSX_Huanghua_Changcha
+HYN_Huangyan Luqiao Airport_Huangyan
+HBX_Hubli Airport_\N
+HUV_Hudiksvall_Hudiksvall
+YHB_Hudson Bay_Hudson Bay
+HGD_Hughenden Airport_\N
+HLF_Hultsfred_Hultsfred
+HUY_Humberside_Humberside
+SVN_Hunter Aaf_Hunter Aaf
+HSV_Huntsville International Airport-Carl T Jones Field_HUNTSVILLE
+HRG_Hurghada Intl_Hurghada
+HRT_Hurlburt Fld_Mary Esther
+HON_Huron Rgnl_Huron
+HZK_Husavik_Husavik
+BDO_Husein Sastranegara_Bandung
+WKM_Hwange National Park_Hwange National Park
+HDD_Hyderabad Airport_Hyderabad
+HYD_Hyderabad_Hyderabad
+ISC_ISLES OF SCILLY_ST MARY\\'S
+IAS_Iasi_Iasi
+IBA_Ibadan_Ibadan
+IBZ_Ibiza_Ibiza
+TNG_Ibn Batouta_Tanger
+YVA_Iconi Airport_Moroni
+IDA_Idaho Falls Rgnl_Idaho Falls
+IAA_Igarka Airport_Igarka
+QFI_Iginniarfik Heliport_\N
+YGT_Igloolik Airport_Igloolik
+CMW_Ignacio Agramonte Intl_Camaguey
+BQS_Ignatyevo_Blagoveschensk
+BDR_Igor I Sikorsky Mem_Stratford
+IHU_Ihu Airport_Ihu
+JIK_Ikaria_Ikaria
+IKI_Iki_Iki
+PFR_Ilebo Airport_Ilebo
+YGR_Iles De La Madeleine_Iles De La Madeleine
+IOS_Ilheus_Ilheus
+ILI_Iliamna_Iliamna
+VVZ_Illizi Takhamalt_Illizi
+ILO_Iloilo_Iloilo
+ILR_Ilorin_Ilorin
+JAV_Ilulissat_Ilulissat
+IKA_Imam Khomeini_Tehran
+IPL_Imperial Co_Imperial
+IMF_Imphal_Imphal
+IAM_In Amenas_Zarzaitine
+INZ_In Salah_In Salah
+ICN_Incheon Intl_Seoul
+UTO_Indian Mountain Lrrs_Indian Mountains
+IND_Indianapolis Intl_Indianapolis
+DEL_Indira Gandhi Intl_Delhi
+AGA_Inezgane_Agadir
+CPE_Ingeniero Alberto Acuna Ongay Intl_Campeche
+PCA_Ingeniero Juan Guillermo Villasana_Pachuca
+INH_Inhambane_Inhambane
+INN_Innsbruck_Innsbruck
+INO_Inongo Airport_Inongo
+YPH_Inukjuak Airport_Inukjuak
+YEV_Inuvik Mike Zubko_Inuvik
+IVC_Invercargill_Invercargill
+INV_Inverness_Inverness
+IOA_Ioannina_Ioannina
+CFU_Ioannis Kapodistrias Intl_Kerkyra/corfu
+IPA_Ipota Airport_Ipota
+YFB_Iqaluit_Iqaluit
+IRI_Iringa_Iringa
+IKT_Irkutsk_Irkutsk
+IFJ_Isafjordur_Isafjordur
+ISG_Ishigaki_Ishigaki
+IRD_Ishurdi_Ishurdi
+PKN_Iskandar_Pangkalan Bun
+ISJ_Isla Mujeres_Isla Mujeres
+YIV_Island Lake Airport_Island Lake
+ILY_Islay_Islay
+IOM_Isle Of Man_Isle Of Man
+PBP_Islita Airport_Nandayure
+ISE_Isparta SÃ¼leyman Demirel Airport_Isparta
+ITH_Ithaca Tompkins Rgnl_Ithaca
+IVL_Ivalo_Ivalo
+IFO_Ivano Frankivsk International Airport_\N
+TNR_Ivato_Antananarivo
+YIK_Ivujivik Airport_Ivujivik
+IWJ_Iwami Airport_\N
+IWO_Iwo Jima_Iwojima
+ZIH_Ixtapa Zihuatanejo Intl_Zihuatanejo
+IJK_Izhevsk Airport_Izhevsk
+IZO_Izumo_Izumo
+BQU_J F Mitchell Airport_Bequia
+BUQ_J M Nkomo Intl_Bulawayo
+GDT_JAGS McCartney International Airport_Cockburn Town
+JLR_Jabalpur_Jabalpur
+JAT_Jabot Airport_Ailinglapalap Atoll
+HHR_Jack Northrop Fld Hawthorne Muni_Hawthorne
+JAN_Jackson Evers Intl_Jackson
+JAC_Jackson Hole Airport_Jacksn Hole
+JAX_Jacksonville Intl_Jacksonville
+NIP_Jacksonville Nas_Jacksonville
+JAQ_Jacquinot Bay Airport_Jacquinot Bay
+CFG_Jaime Gonzalez_Cienfuegos
+JAI_Jaipur_Jaipur
+JSA_Jaisalmer_Jaisalmer
+JAA_Jalalabad_Jalalabad
+GTO_Jalaluddin_Gorontalo
+UIT_Jaluit Airport_Jabor Jaluit Atoll
+DAY_James M Cox Dayton Intl_Dayton
+JMS_Jamestown Regional Airport_Jamestown
+IXJ_Jammu_Jammu
+JGA_Jamnagar_Jamnagar
+IXW_Jamshedpur_Jamshedpur
+RGT_Japura_Rengat
+JQE_JaquÃ© Airport_JaquÃ©
+RZE_Jasionka_Rzeszow
+SOQ_Jefman_Sorong
+JEJ_Jeh Airport_Ailinglapalap Atoll
+CJU_Jeju Intl_Cheju
+JEE_Jeremie Airport_Jeremie
+XRY_Jerez_Jerez
+JER_Jersey_Jersey
+JSR_Jessore_Jessore
+AGU_Jesus Teran Intl_Aguascalientes
+JPR_Ji-ParanÃ¡ Airport_Ji-ParanÃ¡
+JMU_Jiamusi Airport_\N
+CKG_Jiangbei_Chongqing
+GJL_Jijel_Jijel
+JIM_Jimma_Jimma
+TNA_Jinan_Jinan
+JDZ_Jingdezhen Airport_Jingdezhen
+JHG_Jinghong_Jinghong
+KHI_Jinnah Intl_Karachi
+JNZ_Jinzhou Airport_Jinzhou
+JIU_Jiujiang Lushan Airport_Jiujiang
+JZH_Jiuzhaigou Huanglong_Jiuzhaigou
+JIW_Jiwani Airport_Jiwani
+JDH_Jodhpur_Jodhpur
+JOE_Joensuu_Joensuu
+PBM_Johan A Pengel Intl_Zandery
+JNB_Johannesburg Intl_Johannesburg
+JFK_John F Kennedy Intl_New York
+JST_John Murtha Johnstown-Cambria County Airport_Johnstown
+SNA_John Wayne Arpt Orange Co_Santa Ana
+JON_Johnston Atoll_Johnston Island
+JOL_Jolo Airport_\N
+NBO_Jomo Kenyatta International_Nairobi
+JMO_Jomsom_Jomsom
+JBR_Jonesboro Muni_Jonesboro
+JKG_Jonkoping_Joenkoeping
+JLN_Joplin Rgnl_Joplin
+LIM_Jorge Chavez Intl_Lima
+SJE_Jorge E Gonzalez Torres_San Jose Del Guaviare
+CBB_Jorge Wilsterman_Cochabamba
+JRH_Jorhat_Jorhat
+BSC_Jose Celestino Mutis_Bahia Solano
+GYE_Jose Joaquin De Olmedo Intl_Guayaquil
+CZE_Jose Leonardo Chirinos_Coro
+MDE_Jose Maria Cordova_Rio Negro
+HAV_Jose Marti Intl_Havana
+LSP_Josefa Camejo_Paraguana
+GPI_Juan Casiano_Guapi
+VRA_Juan Gualberto Gomez Intl_Varadero
+RTB_Juan Manuel Galvez Intl_Roatan
+VIG_Juan Pablo PÃ©rez Alfonso Airport_El VigÃ­a
+SJO_Juan Santamaria Intl_San Jose
+SRE_Juana Azurduy De Padilla_Sucre
+SAB_Juancho E. Yrausquin_Saba
+SUB_Juanda_Surabaya
+JJI_Juanjui_Juanjui
+JUB_Juba_Juba
+JUJ_Jujuy_Jujuy
+JCK_Julia Creek Airport_\N
+JUL_Juliaca_Juliaca
+JUM_Jumla_Jumla
+JNU_Juneau Intl_Juneau
+TRK_Juwata_Taraken
+JWA_Jwaneng_Jwaneng
+JYV_Jyvaskyla_Jyvaskyla
+KDM_Kaadedhdhoo_Kaadedhdhoo
+KBT_Kaben Airport_Kaben
+ABK_Kabri Dehar Airport_Kabri Dehar
+KBL_Kabul Intl_Kabul
+HTA_Kadala_Chita
+DNA_Kadena Ab_Kadena
+KDO_Kadhdhoo Airport_Laamu Atoll
+KAD_Kaduna_Kaduna
+KED_Kaedi_Kaedi
+KGE_Kagau Island Airport_Kagau Island
+KOJ_Kagoshima_Kagoshima
+KCM_Kahramanmaras Airport_\N
+OGG_Kahului_Kahului
+KAI_Kaieteur_Kaieteur
+KBZ_Kaikoura_Kaikoura
+IXH_Kailashahar_Kailashahar
+KNG_Kaimana_Kaimana
+KAT_Kaitaia_Kaitaia
+KAJ_Kajaani_Kajaani
+KLX_Kalamata_Kalamata
+AZO_Kalamazoo_Kalamazoo
+LUP_Kalaupapa Airport_Molokai
+KAX_Kalbarri Airport_\N
+FMI_Kalemie_Kalemie
+KGI_Kalgoorlie Boulder_Kalgoorlie
+KLO_Kalibo_Kalibo
+KFG_Kalkgurung Airport_\N
+LLA_Kallax_Lulea
+KLR_Kalmar_Kalkmar
+KLG_Kalskag Airport_Kalskag
+JKL_Kalymnos Island_Kalymnos
+KME_Kamembe_Kamembe
+KMN_Kamina Base_Kamina Base
+KAC_Kamishly Airport_Kamishly
+YKA_Kamloops_Kamloops
+KUY_Kamusi Airport_Kamusi
+LLW_Kamuzu Intl_Lilongwe
+KGA_Kananga_Kananga
+KDH_Kandahar_Kandahar
+IXY_Kandla_Kandla
+KDR_Kandrian Airport_Kandrian
+NGF_Kaneohe Bay Mcaf_Kaneohe Bay
+XGR_Kangiqsualujjuaq (Georges River) Airport_Kangiqsualujjuaq
+YKG_Kangirsuk Airport_Kangirsuk
+JAF_Kankesanturai_Jaffna
+KNU_Kanpur_Kanpur
+KIX_Kansai_Osaka
+MCI_Kansas City Intl_Kansas City
+KHH_Kaohsiung Intl_Kaohsiung
+KLC_Kaolack_Kaolack
+NAV_Kapadokya_Nevsehir
+JHM_Kapalua_Lahania-kapalua
+YYU_Kapuskasing_Kapuskasing
+KRY_Karamay Airport_Karamay
+KAB_Kariba Intl_Kariba
+KLV_Karlovy Vary_Karlovy Vary
+KSK_Karlskoga_Karlskoga
+KSD_Karlstad Airport_\N
+HAU_Karmoy_Haugesund
+KGJ_Karonga_Karonga
+AOK_Karpathos_Karpathos
+KTA_Karratha_Karratha
+KSY_Kars Airport_Kars
+KSQ_Karshi Khanabad Airport_Khanabad
+KRB_Karumba Airport_\N
+KRP_Karup_Karup
+XKS_Kasabonika Airport_Kasabonika
+BBK_Kasane_Kasane
+ZKE_Kashechewan Airport_Kashechewan
+KHG_Kashi_Kashi
+PSJ_Kasiguncu_Poso
+KSJ_Kasos_Kasos
+KSL_Kassala_Kassala
+KSF_Kassel Calden_Kassel
+KZS_Kastelorizo_Kastelorizo
+CPH_Kastrup_Copenhagen
+EUA_Kaufana Airport_Eua Island
+KAU_Kauhava_Kauhava
+KKR_Kaukura_Kaukura Atoll
+KUN_Kaunas Intl_Kaunas
+KVG_Kavieng Airport_\N
+KAW_Kawthoung Airport_Kawthoung
+KYS_Kayes Dag Dag_Kayes
+KZN_Kazan_Kazan
+EAR_Kearney Municipal Airport_Kearney
+KGG_Kedougou_Kedougou
+BIX_Keesler Afb_Biloxi
+EFL_Kefallinia_Keffallinia
+KEF_Keflavik Nas_Keflavik
+YLW_Kelowna_Kelowna
+KEJ_Kemerovo_Kemorovo
+KEM_Kemi Tornio_Kemi
+POT_Ken Jones_Port Antonio
+ENA_Kenai Muni_Kenai
+TMB_Kendall Tamiami Executive_Kendall-tamiami
+KEN_Kenema Airport_Kenema
+KET_Kengtung_Kengtung
+NNA_Kenitra_Kentira
+YQK_Kenora_Kenora
+KMA_Kerema Airport_\N
+KKE_Kerikeri_Kerikeri
+KER_Kerman_Kerman
+KIR_Kerry_Kerry
+KTE_Kerteh_Kerteh
+IXK_Keshod_Keshod
+KTN_Ketchikan Intl_Ketchikan
+MEI_Key Field_Meridian MS
+EYW_Key West Intl_Key West
+NQX_Key West Nas_Key West
+HJR_Khajuraho_Khajuraho
+KHM_Khamti_Khamti
+HMA_Khanty Mansiysk Airport_Khanty-Mansiysk
+KRT_Khartoum_Khartoum
+KHS_Khasab_Khasab
+HTG_Khatanga Airport_Khatanga
+UUS_Khomutovo_Yuzhno-sakhalinsk
+KKC_Khon Kaen_Khon Kaen
+KHD_Khoram Abad Airport_\N
+NAK_Khorat_Nakhon Ratchasima
+HVD_Khovd Airport_\N
+KGD_Khrabrovo_Kaliningrad
+LBD_Khudzhand Airport_Khudzhand
+KDD_Khuzdar Airport_Khuzdar
+OXF_Kidlington_Oxford
+KEL_Kiel Holtenau_Kiel
+KFA_Kiffa_Kiffa
+KGL_Kigali Intl_Kigali
+TKQ_Kigoma Airport_Kigoma
+TNJ_Kijang_Tanjung Pinang
+KRI_Kikori Airport_Kikori
+LDI_Kikwetu Airport_Lindi
+KKW_Kikwit_Kikwit
+KIO_Kili Airport_Kili Island
+JRO_Kilimanjaro Intl_Kilimanjaro
+HKN_Kimbe Airport_Hoskins
+KIM_Kimberley_Kimberley
+YLC_Kimmirut Airport_Kimmirut
+YKY_Kindersley_Kindersley
+KND_Kindu_Kindu
+DHA_King Abdulaziz Ab_Dhahran
+JED_King Abdulaziz Intl_Jeddah
+GIZ_King Abdullah Bin Abdulaziz_Gizan
+DMM_King Fahd Intl_Dammam
+OMF_King Hussein_Mafraq
+KNS_King Island Airport_\N
+RUH_King Khaled Intl_Riyadh
+HBT_King Khaled Military City_King Khalid Mil.city
+AKN_King Salmon_King Salmon
+KIF_Kingfisher Lake Airport_Kingfisher Lake
+IGM_Kingman Airport_Kingman
+KGC_Kingscote Airport_Kingscote
+YGK_Kingston_Kingston
+NQI_Kingsville Nas_Kingsville
+IRK_Kirksville Regional Airport_Kirksville
+KOI_Kirkwall_Kirkwall
+KRN_Kiruna_Kiruna
+FKI_Kisangani Simisini_Kisangani
+KIH_Kish Island_Kish Island
+KMU_Kisimayu_Kismayu
+KIS_Kisumu_Kisumu
+KTD_Kitadaito_Kitadaito
+KTL_Kitale_Kitale
+KIT_Kithira_Kithira
+KTT_Kittila_Kittila
+UNG_Kiunga Airport_Kiunga
+KWY_Kiwayu (Mkononi) Airport_Kiwayu
+MJF_Kjaerstad_Mosjoen
+KRS_Kjevik_Kristiansand
+LMT_Klamath Falls Airport_Klamath Falls
+KLZ_Kleinsee_Kleinsee
+VVO_Knevichi_Vladivostok
+RKD_Knox County Regional Airport_Rockland
+UKB_Kobe_Kobe
+ZNV_Koblenz Winningen_Koblenz
+KCZ_Kochi_Kochi
+ADQ_Kodiak_Kodiak
+KGP_Kogalym International_Kogalym
+KCT_Koggala Airport_\N
+KKD_Kokoda Airport_Kokoda
+KOV_Kokshetau Airport_Kokshetau
+KLH_Kolhapur_Kolhapur
+CGN_Koln Bonn_Cologne
+SVX_Koltsovo_Sverdlovsk
+KWZ_Kolwezi_Kolwezi
+KMQ_Komatsu_Kanazawa
+KXK_Komsomolsk-on-Amur Airport_Komsomolsk-on-Amur
+KOA_Kona Intl At Keahole_Kona
+UND_Konduz_Kunduz
+KNQ_Kone_Kone
+KON_Kontum Airport_Kontum
+KYA_Konya_Konya
+KUT_Kopitnari_Kutaisi
+HGO_Korhogo_Korhogo
+KRL_Korla Airport_Korla
+KXF_Koro Island Airport_Koro Island
+PCN_Koromiko_Picton
+KGS_Kos_Kos
+KSC_Kosice_Kosice
+KSA_Kosrae_Kosrae
+KSN_Kostanay West Airport_Kostanay
+KTQ_Kostanay_Kustanay
+BKI_Kota Kinabalu Intl_Kota Kinabalu
+KTU_Kota_Kota
+KSZ_Kotlas Airport_Kotlas
+ACC_Kotoka Intl_Accra
+KOU_Koulamoutou Airport_Koulamoutou
+KOC_Koumac_Koumac
+KWM_Kowanyama Airport_\N
+KBV_Krabi_Krabi
+KRF_Kramfors Solleftea_Kramfors
+PKV_Kresty_Pskov
+KID_Kristianstad_Kristianstad
+VXO_Kronoberg_Vaxjo
+MQP_Kruger Mpumalanga International Airport_Mpumalanga
+KOK_Kruunupyy_Kruunupyy
+KUL_Kuala Lumpur Intl_Kuala Lumpur
+KUA_Kuantan_Kuantan
+KUG_Kubin Airport_\N
+KCH_Kuching Intl_Kuching
+KUD_Kudat Airport_Kudat
+AKF_Kufra_Kufra
+YBB_Kugaaruk_Pelly Bay
+YCO_Kugluktuk_Coppermine
+NTT_Kuini Lavenia Airport_Niuatoputapu
+SVP_Kuito_Kuito
+KUU_Kullu Manali_Kulu
+KUS_Kulusuk_Kulusuk
+KMJ_Kumamoto_Kumamoto
+KMS_Kumasi Airport_\N
+UEO_Kumejima_Kumejima
+NRK_Kungsangen_Norrkoeping
+KUB_Kunsan Ab_Kunsan
+KUV_Kunsan Air Base_Kunsan
+KNX_Kununurra_Kununurra
+KUO_Kuopio_Kuopio
+KCA_Kuqa Airport_Kuqa
+URE_Kuressaare_Kuressaare
+KRO_Kurgan Airport_Kurgan
+URS_Kursk East Airport_Kursk
+KBY_Kurumoch_Samara
+KUH_Kushiro Airport_\N
+YVP_Kuujjuaq_Quujjuaq
+YGW_Kuujjuarapik Airport_Kuujjuarapik
+KAO_Kuusamo_Kuusamo
+KWI_Kuwait Intl_Kuwait
+KSU_Kvernberget_Kristiansund
+KYP_Kyaukpyu_Kyaukpyu
+KYZ_Kyzyl Airport_Kyzyl
+KZO_Kzyl-Orda_Kzyl-Orda
+LAQ_La Abraq Airport_Al Bayda'
+GUA_La Aurora_Guatemala City
+MAR_La Chinita Intl_Maracaibo
+LCL_La Coloma_La Coloma
+DSD_La DÃ©sirade Airport_Grande Anse
+LSC_La Florida_La Serena
+TCO_La Florida_Tumaco
+LFR_La Fria_La Fria
+AGF_La Garenne_Agen
+GMZ_La Gomera Airport_\N
+YGL_La Grande Riviere_La Grande Riviere
+LGA_La Guardia_New York
+GLJ_La Jagua Airport_GarzÃ³n
+LHX_La Junta Muni_La Junta
+XQP_La Managua_Quepos
+SAP_La Mesa Intl_San Pedro Sula
+LTT_La MÃ´le Airport_La MÃ´le
+MZL_La Nubia_Manizales
+SPC_La Palma_Santa Cruz De La Palma
+LPD_La Pedrera Airport_La Pedrera
+LPG_La Plata_La Plata
+IRJ_La Rioja_La Rioja
+BVE_La Roche_Brive
+YVC_La Ronge_La Ronge
+ZLT_La TabatiÃ¨re Airport_La TabatiÃ¨re
+XAC_La Teste De Buch_Arcachon
+NOU_La Tontouta_Noumea
+LSE_LaCrosse Municipal_LaCrosse
+RLG_Laage_Laage
+LBS_Labasa Airport_\N
+LMG_Labasa_Lambasa
+LEK_Labe_Labe
+LBU_Labuan_Labuan
+YAX_Lac Du Bonnet Airport_Lac Du Bonnet
+SKF_Lackland Afb Kelly Fld Annex_San Antonio
+FBK_Ladd Aaf_Fort Wainwright
+LAY_Ladysmith_Ladysmith
+LFT_Lafayette Rgnl_Lafayette
+LOO_Laghouat_Laghouat
+ING_Lago Argentino Airport_El Calafate
+LDU_Lahad Datu_Lahad Datu
+YNT_Laishan_Yantai
+TER_Lajes_Lajes (terceira Island)
+LCH_Lake Charles Rgnl_Lake Charles
+LEL_Lake Evella Airport_\N
+LMY_Lake Murray Airport_Lake Murray
+TVL_Lake Tahoe Airport_South Lake Tahoe
+LKB_Lakeba Island Airport_Lakeba Island
+NEL_Lakehurst Naes_Lakehurst
+LLI_Lalibella_Lalibella
+LPM_Lamap Airport_Lamap
+LAA_Lamar Muni_Lamar
+LBQ_Lambarene_Lambarene
+STL_Lambert St Louis Intl_St. Louis
+LNB_Lamen Bay Airport_Lamen Bay
+SUF_Lamezia Terme_Lamezia
+LDN_Lamidanda_Lamidanda
+LPT_Lampang_Lampang
+LMP_Lampedusa_Lampedusa
+LAU_Lamu Manda_Lamu
+LNY_Lanai_Lanai
+LNS_Lancaster Airport_Lancaster
+LEQ_Land's End / St. Just Airport_Land's End
+JLD_Landskrona_Landskrona
+GOT_Landvetter_Gothenborg
+LGK_Langkawi Intl_Pulau
+LFI_Langley Afb_Hampton
+TOS_Langnes_Tromso
+LRT_Lann Bihoue_Lorient
+LAI_Lannion_Lannion
+YLH_Lansdowne House Airport_Lansdowne House
+HLA_Lanseria_Johannesburg
+KYD_Lanyu_Lanyu
+ACE_Lanzarote_Lanzerote
+LAO_Laoag Intl_Laoag
+LPP_Lappeenranta_Lappeenranta
+LRR_Lar Airport_\N
+LAR_Laramie Regional Airport_Laramie
+LRD_Laredo Intl_Laredo
+LRA_Larisa_Larissa
+LCA_Larnaca_Larnaca
+SDQ_Las Americas Intl_Santo Domingo
+CZU_Las Brujas_Corozal
+LRU_Las Cruces Intl_Las Cruces
+LHS_Las Heras Airport_Las Heras
+LVS_Las Vegas Muni_Las Vegas
+QLA_Lasham_Lasham
+LSH_Lashio_Lashio
+QLT_Latina_Latina
+DLF_Laughlin Afb_Del Rio
+IFP_Laughlin Bullhead International Airport_Bullhead City
+LST_Launceston_Launceston
+BED_Laurence G Hanscom Fld_Bedford
+CRU_Lauriston Airport_Carriacou Island
+JOI_Lauro Carneiro De Loyola_Joinville
+PFB_Lauro Kurtz_Passo Fundo
+LVO_Laverton Airport_\N
+LWY_Lawas Airport_Lawas
+POZ_Lawica_Poznan
+LSF_Lawson Aaf_Fort Benning
+LAW_Lawton-Fort Sill Regional Airport_Lawton
+LZC_Lazaro Cardenas_Lazard Cardenas
+LBG_Le Bourget_Paris
+CTT_Le Castellet_Le Castellet
+FDF_Le Lamentin_Fort-de-france
+TLN_Le Palyvestre_Hyeres
+CET_Le Pontreau_Cholet
+PTP_Le Raizet_Pointe-a-pitre
+LBI_Le Sequestre_Albi
+LTQ_Le Touquet Paris Plage_Le Tourquet
+HOB_Lea Co Rgnl_Hobbs
+LEB_Lebanon Municipal Airport_Lebanon
+LCC_Lecce_Lecce
+GDN_Lecha Walesy_Gdansk
+LBA_Leeds Bradford_Leeds
+LWR_Leeuwarden_Leeuwarden
+LGP_Legazpi_Legazpi
+IXL_Leh_Leh
+ABE_Lehigh Valley Intl_Allentown
+LER_Leinster Airport_\N
+LEJ_Leipzig Halle_Leipzig
+VDB_Leirin_Fagernes
+RAO_Leite Lopes_Ribeirao Preto
+LKN_Leknes Airport_Leknes
+NLC_Lemoore Nas_Lemoore
+JAL_Lencero Airport_\N
+LBV_Leon M Ba_Libreville
+LEN_Leon_Leon
+LNO_Leonora Airport_Leonora
+DKR_Leopold Sedar Senghor Intl_Dakar
+LRS_Leros_Leros
+LWK_Lerwick / Tingwall Airport_Lerwick
+EDM_Les Ajoncs_La Roche-sur-yon
+GBJ_Les Bases Airport_Grand Bourg
+LIL_Lesquin_Lille
+YYZ_Lester B Pearson Intl_Toronto
+YQL_Lethbridge_Lethbridge
+LTM_Lethem_Lethem
+ADX_Leuchars_Leuchars
+CUF_Levaldigi_Levaldigi
+LEV_Levuka Airfield_Levuka
+LWS_Lewiston Nez Perce Co_Lewiston
+LWT_Lewistown Municipal Airport_Lewistown
+LXA_Lhasa-Gonggar_Lhasa
+LRH_Lherm_La Rochelle
+KWL_Liangjiang_Guilin
+LYG_Lianyungang Airport_Lianyungang
+LBL_Liberal Muni_Liberal
+TLC_Licenciado Adolfo Lopez Mateos Intl_Toluca
+MEX_Licenciado Benito Juarez Intl_Mexico City
+PVR_Licenciado Gustavo Diaz Ordaz Intl_Puerto Vallarta
+MID_Licenciado Manuel Crescencio Rejon Int_Merida
+UPN_Licenciado Y Gen Ignacio Lopez Rayon_Uruapan
+VXC_Lichinga_Lichinga
+LDK_Lidkoping_Lidkoping
+LGG_Liege_Liege
+LPX_Liepaja Intl_Liepaja
+LIF_Lifou_Lifou
+HPA_Lifuka Island Airport_Lifuka
+LHG_Lightning Ridge Airport_\N
+LIH_Lihue_Lihue
+LJG_Lijiang Airport_Lijiang
+LIK_Likiep Airport_Likiep Island
+IXI_Lilabari_Lilabari
+LMN_Limbang_Limbang
+LXS_Limnos_Limnos
+LIO_Limon Intl_Limon
+TLD_Limpopo Valley Airport_Tuli Lodge
+LIN_Linate_Milan
+LNK_Lincoln_Lincoln
+LIP_Lins_Lins
+LNZ_Linz_Linz
+LPK_Lipetsk Airport_Lipetsk
+LIQ_Lisala_Lisala
+LIS_Lisboa_Lisbon
+NGB_Lishe_Ninbo
+LSY_Lismore Airport_\N
+FAN_Lista_Lista
+LRF_Little Rock Afb_Jacksonville
+TAO_Liuting_Qingdao
+LPL_Liverpool_Liverpool
+LVI_Livingstone_Livingstone
+LJU_Ljubljana_Ljubliana
+YLL_Lloydminster_Lloydminster
+IRG_Lockhart River Airport_\N
+LJA_Lodja Airport_Lodja
+LOK_Lodwar_Lodwar
+LOE_Loei_Loei
+RJL_LogroÃ±o-Agoncillo Airport_\N
+LIW_Loikaw Airport_Loikaw
+LKG_Lokichoggio Airport_Lokichoggio
+GAU_Lokpriya Gopinath Bordoloi International Airport_Guwahati
+LNV_Londolovit Airport_Londolovit
+YXU_London_London
+LDY_Londonderry Eglinton_Londonderry
+LDB_Londrina_Londrina
+CXO_Lone Star Executive_Conroe
+LPU_Long Apung Airport_Long Apung-Borneo Island
+LBP_Long Banga Airport_Long Banga
+LBW_Long Bawan Airport_Long Bawan-Borneo Island
+LGB_Long Beach_Long Beach
+ISP_Long Island Mac Arthur_Islip
+LGL_Long Lellang Airport_Long Datih
+ODN_Long Seridan Airport_Long Seridan
+LOD_Longana Airport_Longana
+KWE_Longdongbao_Guiyang
+LRE_Longreach Airport_\N
+DIJ_Longvic_Dijon
+LYR_Longyear_Svalbard
+LNE_Lonorore Airport_Lonorore
+LPS_Lopez Island Airport_Lopez
+LDH_Lord Howe Island Airport_\N
+LTO_Loreto Intl_Loreto
+LAX_Los Angeles Intl_Los Angeles
+SJD_Los Cabos Intl_San Jose Del Cabo
+MTR_Los Garzones_Monteria
+LMO_Lossiemouth_Lossiemouth
+LSA_Losuia Airport_Losuia
+DIS_Loubomo Airport_Loubomo
+LPY_Loudes_Le Puy
+MSY_Louis Armstrong New Orleans Intl_New Orleans
+SDF_Louisville International Airport_Louisville
+YBX_Lourdes De Blanc Sablon Airport_Lourdes-De-Blanc-Sablon
+LDE_Lourdes_Tarbes
+CHA_Lovell Fld_Chattanooga
+KWG_Lozuvatka International Airport_\N
+LAD_Luanda 4 De Fevereiro_Luanda
+LXG_Luang Namtha_Luang Namtha
+LPQ_Luang Phabang Intl_Luang Prabang
+SDD_Lubango_Lubango
+LBB_Lubbock Preston Smith Intl_Lubbock
+LBC_Lubeck Blankensee_Luebeck
+FBM_Lubumbashi Intl_Lubumashi
+LKO_Lucknow_Lucknow
+LUD_Luderitz Airport_Luderitz
+LUH_Ludhiana_Ludhiaha
+LUO_Luena_Luena
+LUG_Lugano_Lugano
+VSG_Luhansk International Airport_\N
+SJU_Luis Munoz Marin Intl_San Juan
+LUF_Luke Afb_Phoenix
+LUA_Lukla_Lukla
+NKG_Lukou_Nanjing
+HFE_Luogang_Hefei
+LYA_Luoyang Airport_Luoyang
+MLA_Luqa_Malta
+LUN_Lusaka Intl_Lusaka
+LTN_Luton_London
+YSG_Lutselk'e Airport_Lutselk'e
+LUX_Luxembourg_Luxemburg
+LXR_Luxor Intl_Luxor
+LZO_Luzhou Airport_Luzhou
+LWO_Lviv Intl_Lvov
+LYC_Lycksele_Lycksele
+LYX_Lydd_Lydd
+LYH_Lynchburg Regional Preston Glenn Field_Lynchburg
+NAS_Lynden Pindling Intl_Nassau
+LYE_Lyneham_Lyneham
+YYL_Lynn Lake_Lynn Lake
+GNI_Lyudao_Green Island
+BTS_M R Stefanik_Bratislava
+MST_Maastricht_Maastricht
+UBB_Mabuiag Island Airport_Mabuiag Island
+MCP_Macapa_Macapa
+MFM_Macau Intl_Macau
+MEA_MacaÃ© Airport_MacaÃ©
+MCF_Macdill Afb_Tampa
+MKY_Mackay_Mackay
+NOP_Mactan Cebu Intl_Masbate
+MAG_Madang_Madang
+FNC_Madeira_Funchal
+IXM_Madurai_Madurai
+HGN_Mae Hong Son_Mae Hong Son
+MAQ_Mae Sot Airport_\N
+MFA_Mafia_Mafia Island
+MBO_Mafikeng_Mmabatho
+GEA_Magenta_Noumea
+TWF_Magic Valley Regional Airport_Twin Falls
+MQF_Magnitogorsk_Magnetiogorsk
+MZG_Magong_Makung
+MWQ_Magwe_Magwe
+RPN_Mahanaim I Ben Yaakov_Rosh Pina
+EUG_Mahlon Sweet Fld_Redding
+MRX_Mahshahr_Bandar Mahshahr
+MIU_Maiduguri_Maiduguri
+MMZ_Maimana_Maimama
+SBG_Maimun Saleh_Sabang
+MXT_Maintirano Airport_Maintirano
+MMO_Maio_Maio
+MJE_Majkin Airport_Majkin
+VAG_Major Brigadeiro Trompowsky_Varginha
+GVT_Majors_Greenvile
+MQX_Makale_Makale
+SKG_Makedonia_Thessaloniki
+MKP_Makemo_Makemo
+YMN_Makkovik Airport_Makkovik
+MKU_Makokou_Makokou
+MDI_Makurdi_Makurdi
+SSG_Malabo_Malabo
+MKZ_Malacca_Malacca
+AGP_Malaga_Malaga
+MAK_Malakal_Malakal
+AAM_Malamala Airport_Malamala
+MEG_Malanje_Malanje
+LGS_Malargue_Malargue
+MLE_Male Intl_Male
+ARD_Mali Airport_Alor Island
+LSW_Malikus Saleh Airport_Lhok Seumawe-Sumatra Island
+MYD_Malindi Airport_Malindi
+KAN_Mallam Aminu Intl_Kano
+MAV_Maloelap Island Airport_Maloelap Island
+PTF_Malolo Lailai Island Airport_Malolo Lailai Island
+MXP_Malpensa_Milano
+WMP_Mampikony Airport_Mampikony
+MJC_Man_Man
+MNF_Mana Island Airport_Mana Island
+MGA_Managua Intl_Managua
+WVK_Manakara_Manakara
+NGX_Manang_Manang
+MNJ_Mananjary_Mananjary
+TEU_Manapouri_Manapouri
+FRU_Manas_Bishkek
+MHT_Manchester Regional Airport_Manchester NH
+MAN_Manchester_Manchester
+MDL_Mandalay Intl_Mandalay
+CEQ_Mandelieu_Cannes
+WMA_Mandritsara Airport_Mandritsara
+MGS_Mangaia Island Airport_Mangaia Island
+IXE_Mangalore_Mangalore
+LUM_Mangshi Airport_Luxi
+MHK_Manhattan Reigonal_Manhattan
+XMH_Manihi_Manihi
+MHX_Manihiki Island Airport_Manihiki Island
+JSU_Maniitsoq Airport_Maniitsoq
+MNG_Maningrida Airport_\N
+YMW_Maniwaki_Maniwaki
+MJA_Manja Airport_Manja
+MHG_Mannheim City_Mannheim
+MFD_Mansfield Lahm Regional_Mansfield
+MSE_Manston_Manston
+AJY_Manu Dayak_Agadez
+MXS_Maota Airport_Savaii Island
+MPM_Maputo_Maputo
+ZCO_Maquehue_Temuco
+MDQ_Mar Del Plata_Mar Del Plata
+MAB_Maraba_Maraba
+MFG_Maradi_Maradi
+RUS_Marau Airport_Marau
+RIV_March Arb_Riverside
+RDZ_Marcillac_Rodez
+PAC_Marcos A Gelabert Intl_Panama
+MEE_Mare_Mare
+SLZ_Marechal Cunha Machado Intl_Sao Luis
+CGB_Marechal Rondon_Cuiaba
+MGH_Margate_Margate
+KNF_Marham_Marham
+LSQ_Maria Dolores_Los Angeles
+BRX_Maria Montez Intl_Barahona
+NZA_Maria Reiche Neuman Airport_\N
+GAO_Mariana Grajales_Guantanamo
+MBX_Maribor_Maribor
+MHQ_Mariehamn_Mariehamn
+EBA_Marina Di Campo_Marina Di Campo
+OAR_Marina Muni_Fort Ord
+MOC_Mario Ribeiro_Montes Claros
+CUE_Mariscal Lamar_Cuenca
+UIO_Mariscal Sucre Intl_Quito
+MPW_Mariupol International Airport_\N
+ADJ_Marka Intl_Amman
+WMN_Maroantsetra_Maroantsetra
+MCY_Maroochydore Sunshine Coast_Maroochydore
+RMF_Marsa Alam Intl_Marsa Alam
+MHH_Marsh Harbour_Marsh Harbor
+FRI_Marshall Aaf_Fort Riley
+MAJ_Marshall Islands Intl_Majuro
+MVY_Martha\\'s Vineyard_Vineyard Haven MA
+MUR_Marudi_Marudi
+YMH_Mary's Harbour Airport_Mary's Harbour
+MBH_Maryborough Airport_\N
+MII_MarÃ­lia Airport_MarÃ­lia
+MBT_Masbate Airport_Masbate
+MHD_Mashhad_Mashhad
+MSH_Masirah_Masirah
+MSW_Massawa Intl_Massawa
+MSS_Massena Intl Richards Fld_Massena
+ZMT_Masset Airport_Masset
+MRO_Masterton_Masterton
+MVZ_Masvingo Intl_Masvingo
+YNM_Matagami_Matagami
+MVT_Mataiva_Mataiva
+IRP_Matari_Isiro
+IPC_Mataveri Intl_Easter Island
+PEI_Matecana_Pereira
+TVU_Matei Airport_Matei
+MTS_Matsapha_Manzini
+MFK_Matsu Beigan Airport_Matsu Islands
+LZN_Matsu Nangan Airport_Matsu Islands
+MMJ_Matsumoto_Matsumoto
+MYJ_Matsuyama_Matsuyama
+IGA_Matthew Town_Matthew Town
+MUN_Maturin_Maturin
+WGP_Mau Hau_Waingapu
+MUK_Mauke Airport_Mauke Island
+MUB_Maun_Maun
+CER_Maupertus_Cherbourg
+MAU_Maupiti_Maupiti
+MNU_Mawlamyine Airport_Mawlamyine
+AVI_Maximo Gomez_Ciego De Avila
+MXF_Maxwell Afb_Montgomery
+BZV_Maya Maya_Brazzaville
+MYG_Mayaguana_Mayaguana
+YMA_Mayo_Mayo
+STD_Mayor Buenaventura Vivas_Santo Domingo
+CJA_Mayor General FAP Armando Revoredo Iglesias Airport_Cajamarca
+DCM_Mazamet_Castres
+MZR_Mazar I Sharif_Mazar-i-sharif
+MDK_Mbandaka_Mbandaka
+SSY_Mbanza Congo_M'banza-congo
+MBS_Mbs Intl_Saginaw
+MJM_Mbuji Mayi_Mbuji-mayi
+MLC_Mc Alester Rgnl_Mcalester
+MFE_Mc Allen Miller Intl_Mcallen
+LAS_Mc Carran Intl_Las Vegas
+TCM_Mc Chord Afb_Tacoma
+MCC_Mc Clellan Afld_Sacramento
+IAB_Mc Connell Afb_Wichita
+TYS_Mc Ghee Tyson_Knoxville
+WRI_Mc Guire Afb_Wrightstown
+MKL_Mc Kellar Sipes Rgnl_Jackson
+MMV_Mc Minnville Muni_Mackminnville
+MCV_McArthur River Mine Airport_\N
+CLD_McClellan-Palomar Airport_Carlsbad
+MCG_McGrath Airport_Mcgrath
+YLJ_Meadow Lake_Meadow Lake
+BFL_Meadows Fld_Bakersfield
+YXH_Medicine Hat_Medicine Hat
+RYN_Medis_Royan
+MPL_Mediterranee_Montpellier
+MKR_Meekatharra Airport_\N
+KVA_Megas Alexandros Intl_Kavala
+MEY_Meghauli Airport_Meghauli
+THR_Mehrabad Intl_Teheran
+HAK_Meilan_Haikou
+MXZ_Meixian Airport_Meixian
+MJB_Mejit Atoll Airport_Mejit Atoll
+MEB_Melbourne Essendon_Melbourne
+MEL_Melbourne Intl_Melbourne
+MLB_Melbourne Intl_Melbourne
+MBW_Melbourne Moorabbin_Melbourne
+MLN_Melilla_Melilla
+DOM_Melville Hall_Dominica
+MMB_Memanbetsu_Memanbetsu
+FMM_Memmingen Allgau_Memmingen Allgau
+HOT_Memorial Field_Hot Springs
+MEM_Memphis Intl_Memphis
+RAK_Menara_Marrakech
+MDU_Mendi Airport_\N
+MNM_Menominee Marinette Twin Co_Macon
+SPP_Menongue_Menongue
+MAH_Menorca_Menorca
+PSE_Mercedita_Ponce
+BLF_Mercer County Airport_Bluefield
+NMM_Meridian Nas_Meridian
+BOD_Merignac_Bordeaux
+MIM_Merimbula Airport_\N
+CDV_Merle K Mudhole Smith_Cordova
+MRI_Merrill Fld_Anchorage
+MUH_Mersa Matruh_Mersa-matruh
+MZH_Merzifon_Merzifon
+OAK_Metropolitan Oakland Intl_Oakland
+ETZ_Metz Nancy Lorraine_Metz
+VNE_Meucon_Vannes
+NCY_Meythet_Annecy
+MFU_Mfuwe_Mfuwe
+MIA_Miami Intl_Miami
+ZVA_Miandrivazo_Miandrivazo
+MIG_Mianyang Airport_Mianyang
+GLH_Mid Delta Regional Airport_Greenville
+PKB_Mid-Ohio Valley Regional Airport_PARKERSBURG
+MDS_Middle Caicos Airport_Middle Caicos
+MCN_Middle Georgia Rgnl_Macon
+MAF_Midland Intl_Midland
+MDY_Midway Atoll_Midway
+KLD_Migalovo_Tver
+CND_Mihail Kogalniceanu_Constanta
+YGJ_Miho_Miho
+MIK_Mikkeli_Mikkeli
+JMK_Mikonos_Mykonos
+MHZ_Mildenhall_Mildenhall
+MQL_Mildura Airport_\N
+MFN_Milford Sound Airport_Milford Sound
+MIJ_Mili Island Airport_Mili Island
+MGT_Milingimbi Airport_\N
+NQA_Millington Rgnl Jetport_Millington
+MLT_Millinocket Muni_Millinocket
+MIV_Millville Muni_Millville
+MLO_Milos_Milos
+MMD_Minami Daito_Minami Daito
+MTT_Minatitlan_Minatitlan
+MWL_Mineral Wells_Mineral Wells
+MRV_Mineralnyye Vody_Mineralnye Vody
+EZE_Ministro Pistarini_Buenos Aires
+NVT_Ministro Victor Konder Intl_Navegantes
+MXJ_Minna New_Minna
+MSP_Minneapolis St Paul Intl_Minneapolis
+MIB_Minot Afb_Minot
+MOT_Minot Intl_Minot
+MHP_Minsk 1_Minsk
+MSQ_Minsk 2_Minsk 2
+NKX_Miramar Mcas_Miramar
+YCH_Miramichi_Chatham
+EPL_Mirecourt_Epinal
+MYY_Miri_Miri
+MJZ_Mirny_Mirnyj
+MSJ_Misawa Ab_Misawa
+MIS_Misima Island Airport_Misima Island
+MRA_Misratah Airport_Misratah
+MSO_Missoula Intl_Missoula
+MOI_Mitiaro Island Airport_Mitiaro Island
+MJI_Mitiga Airport_Tripoli
+MJT_Mitilini_Mytilini
+MYE_Miyakejima Airport_\N
+MMY_Miyako_Miyako
+KMI_Miyazaki_Miyazaki
+MTF_Mizan Teferi Airport_Mizan Teferi
+MBD_Mmabatho International Airport_Mafeking
+MFJ_Moala Airport_Moala
+BFM_Mobile Downtown_Mobile
+MOB_Mobile Rgnl_Mobile
+MZB_Mocimboa Da Praia_Mocimboa Da Praia
+MOD_Modesto City Co Harry Sham_Modesto
+MJD_Moenjodaro_Moenjodaro
+NUQ_Moffett Federal Afld_Mountain View
+ESU_Mogador Airport_\N
+MVQ_Mogilev Airport_Mogilev
+CZL_Mohamed Boudiaf Intl_Constantine
+CMN_Mohammed V Intl_Casablanca
+YMS_Moises Benzaquen Rengifo_Yurimaguas
+MPK_Mokpo Airport_Mokpo
+MKK_Molokai_Molokai
+MBA_Mombasa Moi Intl_Mombasa
+MAS_Momote Airport_\N
+MCM_Monaco_Monaco
+MBE_Monbetsu_Monbetsu
+MGL_Monchengladbach_Moenchengladbach
+LOV_Monclova Intl_Monclova
+MOG_Mong Hsat_Mong Hsat
+MNY_Mono Airport_Stirling Island
+MLU_Monroe Rgnl_Monroe
+ROB_Monrovia Roberts Intl_Monrovia
+MLW_Monrovia Spriggs Payne_Monrovia
+YYY_Mont Joli_Mont Joli
+XMU_Montbeugny_Moulins
+MRY_Monterey Peninsula_Monterey
+MGM_Montgomery Regional Airport _MONTGOMERY
+VBS_Montichiari_Montichiari
+SNR_Montoir_St.-nazaire
+YMX_Montreal Intl Mirabel_Montreal
+MTJ_Montrose County_Montrose
+VAD_Moody Afb_Valdosta
+MOZ_Moorea_Moorea
+YMJ_Moose Jaw Air Vice Marshal C M Mcewen_Moose Jaw
+YMO_Moosonee_Moosonee
+MKQ_Mopah_Merauke
+MXX_Mora_Mora
+TVA_Morafenobe Airport_Morafenobe
+MOV_Moranbah Airport_\N
+MRZ_Moree Airport_\N
+MGW_Morgantown Muni Walter L Bill Hart Fld_Morgantown
+MEZ_Morningside Farm_Messina
+ONG_Mornington Island Airport_\N
+MXH_Moro Airport_Moro
+MXM_Morombe_Morombe
+OZP_Moron Ab_Sevilla
+MOQ_Morondava_Morondava
+MYA_Moruya Airport_\N
+TIM_Moses Kilangin_Timika
+MSU_Moshoeshoe I Intl_Maseru
+OSR_Mosnov_Ostrava
+OMO_Mostar_Mostar
+MTV_Mota Lava Airport_Ablow
+MJL_Mouilla Ville Airport_Mouila
+ERH_Moulay Ali Cherif_Er-rachidia
+MQQ_Moundou_Moundou
+GTN_Mount Cook_Mount Cook
+MGB_Mount Gambier Airport_\N
+HGU_Mount Hagen_Mount Hagen
+MHU_Mount Hotham Airport_\N
+ISA_Mount Isa_Mount Isa
+MMG_Mount Magnet Airport_\N
+MPN_Mount Pleasant_Mount Pleasant
+MWP_Mountain Airport_Mountain
+MUO_Mountain Home Afb_Mountain Home
+MOU_Mountain Village Airport_Mountain Village
+OYG_Moyo Airport_Moyo
+UTT_Mthatha_Umtata
+MYW_Mtwara_Mtwara
+MWX_Muan_Muan
+MNB_Muanda_Muanda
+MVS_Mucuri Airport_Mucuri
+MDG_Mudanjiang_Mudanjiang
+BMU_Muhammad Salahuddin_Bima
+MUI_Muir Aaf_Muir
+MKM_Mukah Airport_Mukah
+UUD_Mukhino_Ulan-ude
+MUX_Multan Intl_Multan
+MZV_Mulu_Mulu
+MUC_Munchen_Munich
+MUA_Munda Airport_\N
+FRS_Mundo Maya International_Flores
+FMO_Munster Osnabruck_Muenster/osnabrueck
+MJV_Murcia San Javier_Murcia
+MXV_Muren Airport_\N
+MMK_Murmansk_Murmansk
+MYI_Murray Island Airport_Murray Island
+LOS_Murtala Muhammed_Lagos
+MKG_Muskegon County Airport_Muskegon
+YQA_Muskoka_Muskoka
+MSA_Muskrat Dam Airport_Muskrat Dam
+MUZ_Musoma Airport_Musoma
+MQS_Mustique_Mustique
+LBJ_Mutiara Ii_Labuhan Bajo
+PLW_Mutiara_Palu
+MVB_Mvengue_Franceville
+DAR_Mwalimu Julius K Nyerere Intl_Dar Es Salaam
+MWZ_Mwanza_Mwanza
+MGZ_Myeik_Myeik
+MYT_Myitkyina_Myitkyina
+MYR_Myrtle Beach Intl_Myrtle Beach
+ZZU_Mzuzu_Mzuzu
+XNA_NW Arkansas Regional_Bentonville
+NBX_Nabire_Nabire
+MNC_Nacala_Nacala
+NAN_Nadi Intl_Nandi
+NYM_Nadym Airport_Nadym
+LAE_Nadzab_Nadzab
+WNP_Naga Airport_Naga
+NGS_Nagasaki_Nagasaki
+NKM_Nagoya Airport_Nagoya
+NAH_Naha_Naha
+OKA_Naha_Naha
+YDP_Nain Airport_Nain
+WIL_Nairobi Wilson_Nairobi
+SHB_Nakashibetsu_Nakashibetsu
+NAJ_Nakhchivan Airport_Nakhchivan
+KOP_Nakhon Phanom_Nakhon Phanom
+NST_Nakhon Si Thammarat_Nakhon Si Thammarat
+YQN_Nakina Airport_Nakina
+NAL_Nalchik Airport_Nalchik
+NMA_Namangan Airport_Namangan
+MSZ_Namibe Airport_\N
+NDK_Namorik Atoll Airport_Namorik Atoll
+APL_Nampula_Nampula
+OSY_Namsos HÃ¸knesÃ¸ra Airport_Namsos
+NNT_Nan_Nan
+YCD_Nanaimo_Nanaimo
+NAO_Nanchong Airport_Nanchong
+YSR_Nanisivik_Nanisivik
+SHM_Nanki Shirahama_Nanki-shirahama
+JNN_Nanortalik Heliport_Nanortalik
+WUS_Nanping Wuyishan Airport Airport_Wuyishan
+NTE_Nantes Atlantique_Nantes
+NTG_Nantong Airport_Nantong
+ACK_Nantucket Mem_Nantucket
+NNY_Nanyang Airport_Nanyang
+NYK_Nanyuki Civil Airport_Nanyuki
+MWF_Naone Airport_Maewo Island
+NPE_Napier_NAPIER
+APF_Naples Muni_Naples
+NAW_Narathiwat_Narathiwat
+NRT_Narita Intl_Tokyo
+NAA_Narrabri Airport_\N
+NRA_Narrandera Airport_\N
+JNS_Narsaq Heliport_Narsaq
+UAK_Narsarsuaq_Narssarssuaq
+NNM_Naryan-Mar_Naryan-Mar
+BNA_Nashville Intl_Nashville
+ISK_Nasik Road_Nasik Road
+PID_Nassau Paradise Island Airport_Nassau
+YNA_Natashquan_Natashquan
+CPR_Natrona Co Intl_Casper
+INU_Nauru Intl_Nauru
+SUV_Nausori Intl_Nausori
+WNS_Nawabshah_Nawabshah
+JNX_Naxos_Cyclades Islands
+NDJ_Ndjamena Hassan Djamous_N'djamena
+FIH_Ndjili Intl_Kinshasa
+NLA_Ndola_Ndola
+NLO_Ndolo_Kinshasa
+VOL_Nea Anchialos_Nea Anghialos
+NEC_Necochea Airport_Necochea
+CNP_Neerlerit Inaat Airport_Neerlerit Inaat
+TOE_Nefta_Tozeur
+NFG_Nefteyugansk Airport_Nefteyugansk
+GXG_Negage_Negage
+EAM_Nejran_Nejran
+LSV_Nellis Afb_Las Vegas
+NSN_Nelson_Nelson
+EMN_Nema_Nema
+YNS_Nemiscau Airport_Nemiscau
+KEP_Nepalgunj Airport_Nepalgunj
+CCU_Netaji Subhash Chandra Bose Intl_Calcutta
+EWB_New Bedford Regional Airport_New Bedford
+CAT_New Bight Airport_Cat Island
+ILG_New Castle_Wilmington
+CTS_New Chitose_Sapporo
+KKJ_New Kitakyushu_Kitakyushu
+NBG_New Orleans Nas Jrb_New Orleans
+NPL_New Plymouth_New Plymouth
+NCA_New River Mcas_Jacksonville
+TNE_New Tanegashima_Tanegashima
+EWR_Newark Liberty Intl_Newark
+NTL_Newcastle Airport_Newcastle
+NCS_Newcastle_Newcastle
+NCL_Newcastle_Newcastle
+ZNE_Newman Airport_\N
+PHF_Newport News Williamsburg Intl_Newport News
+UUU_Newport State_Newport RI
+NGE_Ngaoundere_N'gaoundere
+NGI_Ngau Airport_Ngau
+NGV_Ngiva_N'giva
+IRA_Ngorangora Airport_Kirakira
+NHA_Nhatrang_Nhatrang
+IAG_Niagara Falls Intl_Niagara Falls
+LRL_Niamtougou International_Niatougou
+NRN_Niederrhein_Weeze
+KIJ_Niigata_Niigata
+HER_Nikos Kazantzakis_Heraklion
+MNL_Ninoy Aquino Intl_Manila
+NIO_Nioki Airport_Nioki
+INI_Nis_Nis
+IIS_Nissan Island Airport_Nissan Island
+IUE_Niue International Airport_\N
+HUE_Niue Intl_Alofi
+NJC_Nizhnevartovsk_Nizhnevartovsk
+ABV_Nnamdi Azikiwe Intl_Abuja
+NOG_Nogales Intl_Nogales
+OLS_Nogales Intl_Nogales
+HAN_Noibai Intl_Hanoi
+OME_Nome_Nome
+NRD_Norderney_Norderney
+ORF_Norfolk Intl_Norfolk
+NLK_Norfolk Island Intl_Norfolk Island
+NGU_Norfolk Ns_Norfolk
+KIN_Norman Manley Intl_Kingston
+YVQ_Norman Wells_Norman Wells
+SJC_Norman Y Mineta San Jose Intl_San Jose
+NTN_Normanton Airport_\N
+NUS_Norsup Airport_Norsup
+YQW_North Battleford_North Battleford
+YYB_North Bay_North Bay
+SFZ_North Central State_Smithfield
+ELH_North Eleuthera_North Eleuthera
+NZY_North Island Nas_San Diego
+HWO_North Perry_Hollywood
+LBF_North Platte Regional Airport Lee Bird Field_North Platte
+NRL_North Ronaldsay Airport_North Ronaldsay
+YNO_North Spirit Lake Airport_North Spirit Lake
+OLZ_North West Santo Airport_Olpoi
+PNE_Northeast Philadelphia_Philadelphia
+PQI_Northern Maine Rgnl At Presque Isle_Presque Isle
+NHT_Northolt_Northolt
+ORT_Northway_Northway
+MSL_Northwest Alabama Regional Airport_Muscle Shoals
+YNE_Norway House Airport_Norway House
+NWI_Norwich_Norwich
+NOM_Nosara Airport_Nicoya
+NOB_Nosara_Nosara Beach
+NSH_Noshahr Airport_\N
+NTQ_Noto_Wajima
+NQT_Nottingham Airport_Nottingham
+EMA_Nottingham East Midlands_East Midlands
+NDB_Nouadhibou_Nouadhibou
+NKC_Nouakchott_Nouakschott
+GHA_Noumerat_Ghardaia
+KHV_Novy_Khabarovsk
+NUX_Novyi Urengoy_Novyi Urengoy
+NOJ_Noyabrsk_Noyabrsk
+STY_Nueva Hesperides Intl_Salto
+UKU_Nuku Airport_Nuku
+NHV_Nuku Hiva_Nuku Hiva
+NCU_Nukus Airport_Nukus
+NNX_Nunukan Airport_Nunukan-Nunukan Island
+NUE_Nurnberg_Nuernberg
+GZO_Nusatupe Airport_Gizo
+GOH_Nuuk_Godthaab
+NYA_Nyagan Airport_Nyagan
+UYL_Nyala Airport_Nyala
+LZY_Nyingchi Airport_Nyingchi
+OKY_Oakey Airport_\N
+OAM_Oamaru_Oamaru
+PDA_Obando Airport_Puerto InÃ­rida
+OBF_Oberpfaffenhofen_Oberpfaffenhofen
+OBO_Obihiro_Obihiro
+OBX_Obo Airport_Obo
+NTU_Oceana Nas_Oceana
+LEH_Octeville_Le Havre
+ONJ_Odate Noshiro Airport_\N
+ODE_Odense_Odense
+ODS_Odesa Intl_Odessa
+ODH_Odiham_Odiham
+OFF_Offutt Afb_Omaha
+OGS_Ogdensburg Intl_Ogdensburg
+OGL_Ogle_Georgetown
+YOG_Ogoki Post Airport_Ogoki Post
+GZT_Oguzeli_Gaziantep
+OHD_Ohrid_Ohrid
+OIT_Oita_Oita
+OKD_Okadama Airport_Sapporo
+OKJ_Okayama_Okayama
+WAW_Okecie_Warsaw
+OHO_Okhotsk Airport_Okhotsk
+OKI_Oki_Oki Island
+OKN_Okondja_Okondja
+OIR_Okushiri_Okushiri
+EOH_Olaya Herrera_Medellin
+OLB_Olbia Costa Smeralda_Olbia
+YOC_Old Crow_Old Crow
+OLP_Olympic Dam Airport_\N
+OMB_Omboue Hopital_Omboue Hospial
+OMS_Omsk_Omsk
+OND_Ondangwa Airport_Ondangwa
+VPE_Ondjiva Pereira Airport_Ondjiva
+ONT_Ontario Intl_Ontario
+OST_Oostende_Ostend
+OPF_Opa Locka_Miami
+OMR_Oradea_Oradea
+ORA_Oran_Oran
+OMD_Oranjemund Airport_Oranjemund
+ORP_Orapa Airport_\N
+ORB_Orebro_Orebro
+REN_Orenburg_Orenburg
+MOA_Orestes Acosta_Moa
+OLA_Orland_Orland
+JDO_Orlando Bezerra de Menezes Airport_Juazeiro Do Norte
+MCO_Orlando Intl_Orlando
+SFB_Orlando Sanford Intl_Sanford
+DWS_Orlando_Orlando
+ORY_Orly_Paris
+ORW_Ormara Airport_Ormara Raik
+OER_Ornskoldsvik_Ornskoldsvik
+OSW_Orsk Airport_Orsk
+ITM_Osaka Intl_Osaka
+OSN_Osan Ab_Osan
+OSC_Oscoda Wurtsmith_Oscoda
+OSS_Osh_Osh
+OIM_Oshima_Oshima
+OSI_Osijek_Osijek
+OSK_Oskarshamn_Oskarshamn
+ZYL_Osmany Intl_Sylhet Osmani
+HRK_Osnova International Airport_\N
+OXB_Osvaldo Vieira International Airport_Bissau
+AGV_Oswaldo Guevara Mujica_Acarigua
+FMH_Otis Angb_Falmouth
+YOW_Ottawa Macdonald Cartier Intl_Ottawa
+OTU_Otu_Otu
+OUA_Ouagadougou_Ouagadougou
+AJN_Ouani_Anjouan
+OGX_Ouargla_Ouargla
+OZZ_Ouarzazate_Ouarzazate
+ODY_Oudamsay_Oudamsay
+DUH_Oudtshoorn_Oudtshoorn
+HME_Oued Irara_Hassi-messaoud
+OUE_Ouesso_Ouesso
+OUL_Oulu_Oulu
+OUK_Outer Skerries Airport_\N
+UVE_Ouvea_Ouvea
+VDA_Ovda_Ovda
+FTX_Owando_Owando
+GCM_Owen Roberts Intl_Georgetown
+OWB_Owensboro Daviess County Airport_Owensboro
+YOH_Oxford House Airport_Oxford House
+OYE_Oyem_Oyem
+OZC_Ozamis_Ozamis
+OZA_Ozona Muni_Ozona
+JFR_Paamiut Heliport_Paamiut
+PAD_Paderborn Lippstadt_Paderborn
+QPA_Padova_Padova
+PEM_Padre Aldamiz_Puerto Maldonado
+PFO_Pafos Intl_Paphos
+PAG_Pagadian Airport_\N
+FMY_Page Fld_Fort Myers
+PGA_Page Municipal Airport_Page
+PPG_Pago Pago Intl_Pago Pago
+PYY_Pai_Pai
+PNV_Pajuostis_Panevezys
+PKK_Pakhokku Airport_Pakhokku
+PKZ_Pakse_Pakse
+PSX_Palacios Muni_Palacios
+PLQ_Palanga Intl_Palanga
+LNA_Palm Beach Co Park_West Palm Beach
+PBI_Palm Beach Intl_West Palm Beach
+PMK_Palm Island Airport_\N
+PSP_Palm Springs Intl_Palm Springs
+PMZ_Palmar Sur_Palmar Sur
+PMW_Palmas_Palmas
+PMD_Palmdale Rgnl Usaf Plt 42_Palmdale
+PAQ_Palmer Muni_Palmer
+PMR_Palmerston North_Palmerston North
+PMS_Palmyra_Palmyra
+BGA_Palonegro_Bucaramanga
+PNA_Pamplona_Pamplona
+PLU_Pampulha Carlos Drummond De Andrade_Belo Horizonte
+PFN_Panama City Bay Co Intl_Panama City
+YXP_Pangnirtung_Pangnirtung
+PSU_Pangsuma Airport_Putussibau-Borneo Island
+PJG_Panjgur_Panjgur
+PNL_Pantelleria_Pantelleria
+PGH_Pantnagar_Nainital
+PSV_Papa Stour Airport_Papa Stour
+PPW_Papa Westray Airport_Papa Westray
+PBO_Paraburdoo Airport_\N
+PAJ_Parachinar Airport_Parachinar
+PPQ_Paraparaumu_Paraparaumu
+PED_Pardubice_Pardubice
+PKE_Parkes Airport_\N
+PMF_Parma_Parma
+EPU_Parnu_Parnu
+PBH_Paro_Paro
+PAS_Paros_Paros
+KRR_Pashkovskiy_Krasnodar
+PSI_Pasni_Pasni
+AOL_Paso De Los Libres_Paso De Los Libres
+IXP_Pathankot_Pathankot
+BSX_Pathein Airport_Pathein
+PAT_Patna_Patina
+PFJ_Patreksfjordur_Patreksfjordur
+COF_Patrick Afb_Coco Beach
+PAN_Pattani_Pattani
+AMQ_Pattimura_Ambon
+NHK_Patuxent River Nas_Patuxent River
+PUF_Pau Pyrenees_Pau
+YPC_Paulatuk_Paulatuk
+PAV_Paulo Afonso_Paulo Alfonso
+PWQ_Pavlodar_Pavlodar
+QPG_Paya Lebar_Paya Lebar
+YPE_Peace River_Peace River
+PSM_Pease International Tradeport_Portsmouth
+YPO_Peawanuck Airport_Peawanuck
+PEX_Pechora_Pechora
+TBP_Pedro Canga_Tumbes
+PLN_Pellston Regional Airport of Emmet County Airport_Pellston
+PET_Pelotas_Pelotas
+POL_Pemba_Pemba
+PMA_Pemba_Pemba
+PMB_Pembina Muni_Pembina
+PEN_Penang Intl_Penang
+PDO_Pendopo Airport_Talang Gudang-Sumatra Island
+CBN_Penggung_Cirebon
+PYE_Penrhyn Island Airport_Penrhyn Island
+NPA_Pensacola Nas_Pensacola
+PNS_Pensacola Rgnl_Pensacola
+YYF_Penticton_Penticton
+PEZ_Penza Airport_Penza
+PZE_Penzance Heliport_Penzance
+PIA_Peoria Regional_Peoria
+IBE_Perales_Ibague
+PMQ_Perito Moreno_Perito Moreno
+PER_Perth Intl_Perth
+JAD_Perth Jandakot_Perth
+PEG_Perugia_Perugia
+PSR_Pescara_Pescara
+PEW_Peshawar Intl_Peshawar
+YWA_Petawawa_Petawawa
+YPQ_Peterborough_Peterborough
+PPK_Petropavlosk South Airport_Petropavlosk
+PES_Petrozavodsk Airport_Petrozavodsk
+PHW_Phalaborwa_Phalaborwa
+PPL_Phaplu_Phaplu
+PHY_Phetchabun_Phetchabun
+PHL_Philadelphia Intl_Philadelphia
+MJN_Philibert Tsiranana_Mahajanga
+BZE_Philip S W Goldson Intl_Belize City
+APG_Phillips Aaf_Aberdeen
+PHS_Phitsanulok_Phitsanulok
+PNH_Phnom Penh Intl_Phnom-penh
+SYX_Phoenix International_Sanya
+PHX_Phoenix Sky Harbor Intl_Phoenix
+PRH_Phrae_Phrae
+HUI_Phu Bai_Hue
+UIH_Phu Cat Airport_\N
+HKT_Phuket Intl_Phuket
+QPZ_Piacenza_Piacenza
+POS_Piarco_Port-of-spain
+ZAL_Pichoy_Valdivia
+YPL_Pickle Lake_Pickle Lake
+PIX_Pico_Pico
+GSO_Piedmont Triad_Greensboro
+PDS_Piedras Negras Intl_Piedras Negras
+YUL_Pierre Elliott Trudeau Intl_Montreal
+PIR_Pierre Regional Airport_Pierre
+PZY_Piestany_Piestany
+PZB_Pietermaritzburg_Pietermaritzburg
+PTG_Pietersburg_Pietersburg
+YPM_Pikangikum Airport_Pikangikum
+NTY_Pilanesberg Intl_Pilanesberg
+DUM_Pinang Kampai_Dumai
+PIF_Pingtung South_Pingtung
+FOR_Pinto Martins Intl_Fortaleza
+PSA_Pisa_Pisa
+PIO_Pisco Intl_Pisco
+PIT_Pittsburgh Intl_Pittsburgh (pennsylva)
+OTI_Pitu_Morotai Island
+TTA_Plage Blanche_Tan Tan
+RRG_Plaine Corail_Rodriguez Island
+SLW_Plan De Guadalupe Intl_Saltillo
+PTU_Platinum_Port Moller
+PBG_Plattsburgh Intl_Plattsburgh
+ZLO_Playa De Oro Intl_Manzanillo
+PLD_Playa Samara Airport_Playa Samara
+PXU_Pleiku Airport_Pleiku
+DNR_Pleurtuit_Dinard
+MXN_Ploujean_Morlaix
+PDV_Plovdiv_Plovdiv
+UIP_Pluguffan_Quimper
+PLH_Plymouth_Plymouth
+KVX_Pobedilovo Airport_Kirov
+PIH_Pocatello Regional Airport_Pocatello
+POO_Pocos De Caldas_Pocos De Caldas
+TGD_Podgorica_Podgorica
+KPO_Pohang_Pohang
+PNI_Pohnpei Intl_Pohnpei
+PIZ_Point Lay Lrrs_Point Lay
+NTD_Point Mugu Nas_Point Mugu
+GND_Point Salines Intl_Point Salines
+PNR_Pointe Noire_Pointe-noire
+FUT_Pointe Vele Airport_Futuna Island
+YNL_Points North Landing Airport_Points North Landing
+PKR_Pokhara_Pokhara
+PYJ_Poliarny Airport_Yakutia
+POE_Polk Aaf_Fort Polk
+MES_Polonia_Medan
+PNC_Ponca City Rgnl_Ponca City
+SLP_Ponciano Arriaga Intl_San Luis Potosi
+YIO_Pond Inlet_Pond Inlet
+PCB_Pondok Cabe_Jakarta
+PDL_Ponta Delgada_Ponta Delgada
+PMG_Ponta Pora_Ponta Pora
+POB_Pope Afb_Fayetteville
+YHP_Poplar Hill Airport_Poplar Hill
+PBD_Porbandar_Porbandar
+BIA_Poretta_Bastia
+POR_Pori_Pori
+EDR_Pormpuraaw Airport_\N
+NOW_Port Angeles Cgas_Port Angeles
+PUG_Port Augusta Airport_\N
+WPB_Port BergÃ© Airport_Port BergÃ©
+IXZ_Port Blair_Port Blair
+CMH_Port Columbus Intl_Columbus
+PLZ_Port Elizabeth Intl_Port Elizabeth
+POG_Port Gentil_Port Gentil
+PHC_Port Harcourt Intl_Port Hartcourt
+YZT_Port Hardy_Port Hardy
+PHE_Port Hedland Intl_Port Hedland
+YHA_Port Hope Simpson Airport_Port Hope Simpson
+PLO_Port Lincoln Airport_\N
+PQQ_Port Macquarie Airport_\N
+YPN_Port Menier_Port Menier
+POM_Port Moresby Jacksons Intl_Port Moresby
+S46_Port O\\'Connor Airfield_Port O\\'Connor
+PSD_Port Said_Port Said
+PZU_Port Sudan New International Airport_Port Sudan
+VLI_Port Vila Bauerfield_Port-vila
+PAX_Port-de-Paix Airport_Port-de-Paix
+PTJ_Portland Airport_\N
+PWM_Portland Intl Jetport_Portland
+PDX_Portland Intl_Portland
+PBN_Porto Amboim_Porto Amboim
+PNB_Porto Nacional_Porto Nacional
+PXO_Porto Santo_Porto Santo
+OPO_Porto_Porto
+POW_Portoroz_Portoroz
+PSS_Posadas_Posadas
+YPW_Powell River Airport_Powell River
+PRI_Praslin_Praslin
+IMP_Prefeito Renato Moreira_Imperatriz
+SNE_Preguica_Sao Nocolau Island
+PRV_Prerov_Prerov
+JPA_Presidente Castro Pinto_Joao Pessoa
+CPV_Presidente Joao Suassuna_Campina Grande
+BSB_Presidente Juscelino Kubitschek_Brasilia
+RBR_Presidente Medici_Rio Branco
+DIL_Presidente Nicolau Lobato Intl_Dili
+NQN_Presidente Peron_Neuquen
+PPB_Presidente Prudente_President Prudente
+PIK_Prestwick_Prestwick
+YPA_Prince Albert Glass Field_Prince Albert
+YXS_Prince George_Prince George
+ULD_Prince Mangosuthu Buthelezi_Ulundi
+MED_Prince Mohammad Bin Abdulaziz_Madinah
+YPR_Prince Rupert_Prince Pupert
+HAH_Prince Said Ibrahim_Moroni
+SXM_Princess Juliana Intl_Philipsburg
+PNM_Princeton Muni_Princeton
+YDC_Princeton_Princeton
+PCP_Principe_Principe
+PRN_Pristina_Pristina
+SJK_Professor Urbano Ernesto Stumpf_Sao Jose Dos Campos
+PPP_Proserpine Whitsunday Coast_Prosserpine
+MRS_Provence_Marseille
+PLS_Providenciales_Providenciales
+PVS_Provideniya Bay_Provideniya Bay
+ZPC_PucÃ³n Airport_Pucon
+PVG_Pudong_Shanghai
+PUB_Pueblo Mem_Pueblo Memorial
+PBR_Puerto Barrios Airport_Puerto Barrios
+PUZ_Puerto Cabezas_Puerto Cabezas
+PCR_Puerto Carreno_Puerto Carreno
+PUD_Puerto Deseado_Puerto Deseado
+PXM_Puerto Escondido Intl_Puerto Escondido
+PJM_Puerto Jimenez Airport_Puerto Jimenez
+PEU_Puerto Lempira Airport_Puerto Lempira
+PPE_Puerto Penasco_Punta Penasco
+PPS_Puerto Princesa_Puerto Princesa
+PUR_Puerto Rico Airport_Puerto Rico/Manuripi
+PKP_Puka Puka_Puka Puka
+PUY_Pula_Pula
+PKG_Pulau Pangkor Airport_Pangkor Island
+TOD_Pulau Tioman_Tioman
+LED_Pulkovo_St. Petersburg
+PUW_Pullman-Moscow Rgnl_Pullman
+PNQ_Pune_Pune
+PUJ_Punta Cana Intl_Punta Cana
+PND_Punta Gorda Airport_Punta Gorda
+PBU_Putao_Putao
+FNJ_Pyongyang Intl_Pyongyang
+KTW_Pyrzowice_Katowice
+PEV_PÃ©cs-PogÃ¡ny Airport_PÃ©cs-PogÃ¡ny
+NAQ_Qaanaaq Airport_Qaanaaq
+JQA_Qaarsut Airport_Uummannaq
+AQI_Qaisumah_Hafr Al-batin
+BPX_Qamdo Bangda Airport_Bangda
+JJU_Qaqortoq Heliport_\N
+JCH_Qasigiannguit_Qasigiannguit
+JGO_Qeqertarsuaq Heliport_Qeqertarsuaq Airport
+IQM_Qiemo Airport_Qiemo
+YVM_Qikiqtarjuaq_Broughton Island
+XIC_Qingshan_Xichang
+IQN_Qingyang Airport_Qingyang
+NDG_Qiqihar Sanjiazi Airport_Qiqihar
+MLI_Quad City Intl_Moline
+NYG_Quantico Mcaf_Quantico
+JJN_Quanzhou Airport_Quanzhou
+YQC_Quaqtaq Airport_Quaqtaq
+YQB_Quebec Jean Lesage Intl_Quebec
+AMM_Queen Alia Intl_Amman
+ZQN_Queenstown_Queenstown International
+UTW_Queenstown_Queenstown
+UEL_Quelimane_Quelimane
+QRO_Queretaro Intercontinental_Queretaro
+YQZ_Quesnel_Quesnel
+UET_Quetta_Quetta
+NLD_Quetzalcoatl Intl_Nuevo Laredo
+AAZ_Quezaltenango Airport_Quezaltenango
+ULP_Quilpie Airport_\N
+UIN_Quincy Regional Baldwin Field_Quincy
+JUZ_Quzhou Airport_Quzhou
+BVC_Rabil_Boa Vista
+VKG_Rach Gia_Rach Gia
+TKG_Radin Inten II (Branti) Airport_Bandar Lampung-Sumatra Island
+RAT_Raduzhny Airport_Raduzhnyi
+YRA_Rae Lakes Airport_GamÃ¨tÃ¬
+GER_Rafael Cabrera_Nueva Gerona
+BQN_Rafael Hernandez_Aguadilla
+CTG_Rafael Nunez_Cartagena
+RAH_Rafha_Rafha
+BEY_Rafic Hariri Intl_Beirut
+RJN_Rafsanjan Airport_\N
+KTG_Rahadi Usman_Ketapang
+RFP_Raiatea_Raiatea Island
+RPR_Raipur_Raipur
+RJA_Rajahmundry_Rajahmundry
+RAJ_Rajkot_Rajkot
+BKW_Raleigh County Memorial Airport_Beckley
+RDU_Raleigh Durham Intl_Raleigh-durham
+OTZ_Ralph Wien Mem_Kotzebue
+RBV_Ramata Airport_Ramata
+RAM_Ramingining Airport_\N
+RZR_Ramsar_Ramsar
+RMS_Ramstein Ab_Ramstein
+NTX_Ranai Airport_Ranai-Natuna Besar Island
+RIU_Rancho Murieta_Rancho Murieta
+QRA_Rand Airport_Johannesburg
+HCS_Rand_Johannesburg
+RND_Randolph Afb_San Antonio
+RGI_Rangiroa_Rangiroa
+YRT_Rankin Inlet_Rankin Inlet
+UNN_Ranong_Ranong
+RAP_Rapid City Regional Airport_Rapid City
+RAR_Rarotonga Intl_Avarua
+RKT_Ras Al Khaimah Intl_Ras Al Khaimah
+RAS_Rasht_Rasht
+RBE_Ratanakiri_Ratanakiri
+RAZ_Rawalakot_Rawala Kot
+RDG_Reading Regional Carl A Spaatz Field_Reading
+PVO_Reales Tamarindos_Portoviejo
+REA_Reao_Reao
+YQF_Red Deer Regional_Red Deer Industrial
+YRL_Red Lake Airport_Red Lake
+RDN_Redang_Redang
+RCL_Redcliffe Airport_Redcliffe
+RDD_Redding Muni_Redding
+HUA_Redstone Aaf_Redstone
+OSP_Redzikowo_Slupsk
+REG_Reggio Calabria_Reggio Calabria
+YQR_Regina Intl_Regina
+MGF_Regional De Maringa Silvio Name Junior_Maringa
+AUA_Reina Beatrix Intl_Oranjestad
+RNE_Renaison_Roanne
+MKW_Rendani_Manokwari
+RNL_Rennell/Tingoa Airport_Rennell Island
+GLD_Renner Fld_Goodland
+RNO_Reno Tahoe Intl_Reno
+YUT_Repulse Bay_Repulse Bay
+RES_Resistencia_Resistencia
+YRB_Resolute Bay_Resolute
+REU_Reus_Reus
+REY_Reyes Airport_Reyes
+NQU_Reyes Murillo Airport_NuquÃ­
+REK_Reykjavik Airport_Reykjavik
+RKV_Reykjavik_Reykjavik
+RHI_Rhinelander Oneida County Airport_Rhinelander
+ESR_Ricardo GarcÃ­a Posada Airport_El Salvador
+RCB_Richards Bay_Richard's Bay
+RIC_Richmond Intl_Richmond
+RCM_Richmond_Richmond
+AMA_Rick Husband Amarillo Intl_Amarillo
+LCK_Rickenbacker Intl_Columbus
+RIX_Riga Intl_Riga
+YRG_Rigolet Airport_Rigolet
+RJK_Rijeka_Rijeka
+RMI_Rimini_Rimini
+RCU_Rio Cuarto Area De Material_Rio Cuarto
+RGL_Rio Gallegos_Rio Gallegos
+RGA_Rio Grande_Rio Grande
+RIG_Rio Grande_Rio Grande
+RIS_Rishiri_Rishiri Island
+RAL_Riverside Muni_Riverside
+PGF_Rivesaltes_Perpignan
+YRI_Riviere Du Loup_Riviere Du Loup
+RWN_Rivne International Airport_Rivne
+RIY_Riyan_Mukalla
+ROA_Roanoke Regional_Roanoke VA
+GRK_Robert Gray Aaf_Killeen
+SKB_Robert L Bradshaw_Basse Terre
+RDM_Roberts Fld_Redmond-Bend
+YRJ_Roberval_Roberval
+WRB_Robins Afb_Macon
+RBM_Robinson Aaf_Robinson
+CAY_Rochambeau_Cayenne
+RST_Rochester_Rochester
+RSD_Rock Sound_Rock Sound
+RKS_Rock Springs Sweetwater County Airport_Rock Springs
+ROK_Rockhampton_Rockhampton
+YRM_Rocky Mountain House_Rocky Mountain House
+AQP_Rodriguez Ballon_Arequipa
+MFR_Rogue Valley Intl Medford_Medford
+ROI_Roi Et_Roi Et
+RMA_Roma Airport_\N
+DCA_Ronald Reagan Washington Natl_Washington
+TRS_Ronchi Dei Legionari_Ronchi De Legionari
+RNP_Rongelap Island Airport_Rongelap Island
+RNB_Ronneby_Ronneby
+RRS_Roros_Roros
+ROS_Rosario_Rosario
+TJM_Roschino_Tyumen
+HTL_Roscommon Co_Houghton Lake
+RKE_Roskilde_Copenhagen
+ROV_Rostov Na Donu_Rostov
+ROW_Roswell Intl Air Center_Roswell
+ROP_Rota Intl_Rota
+ROT_Rotorua_Rotorua
+RTM_Rotterdam_Rotterdam
+RTA_Rotuma Airport_Rotuma
+EGC_Roumaniere_Bergerac
+ZRJ_Round Lake (Weagamow Lake) Airport_Round Lake
+RRK_Rourkela_Rourkela
+YUY_Rouyn Noranda_Rouyn
+RVN_Rovaniemi_Rovaniemi
+RXS_Roxas Airport_Roxas City
+URG_Rubem Berta_Uruguaiana
+RUK_Rukumkot_Rukumkot
+RUM_Rumjatar_Rumjatar
+RUR_Rurutu_Rurutu
+RUT_Rutland State Airport_Rutland
+PRG_Ruzyne_Prague
+RVK_Ryum Airport_RÃ¸rvik
+MQN_RÃ¸ssvoll Airport_Mo i Rana
+RET_RÃ¸st Airport_\N
+LPI_Saab_Linkoeping
+SCN_Saarbrucken_Saarbruecken
+SAW_Sabiha Gokcen_Istanbul
+AFZ_Sabzevar National Airport_Sabzevar
+HIN_Sacheon Air Base_Sacheon
+ZPB_Sachigo Lake Airport_Sachigo Lake
+YSY_Sachs Harbour_Sachs Harbour
+SAC_Sacramento Executive_Sacramento
+SMF_Sacramento Intl_Sacramento
+MHR_Sacramento Mather_Sacramento
+SKO_Sadiq Abubakar Iii Intl_Sokoto
+HSG_Saga Airport_\N
+SBR_Saibai Island Airport_Saibai Island
+SPD_Saidpur_Saidpur
+SDT_Saidu Sharif_Saidu Sharif
+CLY_Saint Catherine_Calvi
+STC_Saint Cloud Regional Airport_Saint Cloud
+LYS_Saint Exupery_Lyon
+GNB_Saint Geoirs_Grenoble
+YSJ_Saint John_St. John
+XLS_Saint Louis_St. Louis
+SMS_Sainte Marie_Sainte Marie
+FEZ_Saiss_Fez
+SNO_Sakon Nakhon_Sakon Nakhon
+MVR_Salak_Maroua
+SLL_Salalah_Salalah
+SLM_Salamanca_Salamanca
+RBA_Sale_Rabat
+SLY_Salekhard Airport_Salekhard
+QSR_Salerno Pontecagnano Airport_Salerno
+POA_Salgado Filho_Porto Alegre
+SCX_Salina Cruz Naval Air Station_Salina Cruz
+SLN_Salina Municipal Airport_Salina
+SBY_Salisbury Ocean City Wicomico Rgnl_Salisbury
+YZG_Salluit Airport_Salluit
+SLX_Salt Cay Airport_Salt Cay
+SLC_Salt Lake City Intl_Salt Lake City
+SLA_Salta_Salta
+CCF_Salvaza_Carcassonne
+SZG_Salzburg_Salzburg
+MDC_Sam Ratulangi_Manado
+AZS_SamanÃ¡ El Catey International Airport_Samana
+KUF_Samara_Samara
+SKD_Samarkand_Samarkand
+SVB_Sambava_Sambava
+SAX_Sambu Airport_Boca de SÃ¡balo
+SMV_Samedan_Samedan
+SMI_Samos_Samos
+SMQ_Sampit(Hasan) Airport_Sampit-Borneo Island
+SZF_Samsun-Ã‡arÅŸamba Airport_Samsun
+USM_Samui_Ko Samui
+SAQ_San Andros_San Andros
+SJT_San Angelo Rgnl Mathis Fld_San Angelo
+SVZ_San Antonio Del Tachira_San Antonio
+SAT_San Antonio Intl_San Antonio
+BRC_San Carlos De Bariloche_San Carlos De Bariloch
+SCY_San CristÃ³bal Airport_San CristÃ³bal
+SAN_San Diego Intl_San Diego
+TQR_San Domino Island Heliport_Tremiti Islands
+SFE_San Fernando Airport_\N
+SFD_San Fernando De Apure_San Fernando De Apure
+SFO_San Francisco Intl_San Francisco
+UAQ_San Juan_San Julian
+ULA_San Julian_San Julian
+SBP_San Luis County Regional Airport_San Luis Obispo
+IPI_San Luis_Ipiales
+LUQ_San Luis_San Luis
+NSI_San Nicolas Island Nolf_San Nicolas Island
+SPR_San Pedro_San Pedro
+SPY_San Pedro_San Pedro
+AFA_San Rafael_San Rafael
+ZSA_San Salvador_Cockburn Town
+EAS_San Sebastian_San Sebastian
+SOM_San Tome_San Tome
+SAH_Sanaa Intl_Sanaa
+SDG_Sanandaj_Sanandaj
+SDK_Sandakan_Sandakan
+NDY_Sanday Airport_Sanday
+YZP_Sandspit_Sandspit
+ZSJ_Sandy Lake Airport_Sandy Lake
+SFM_Sanford Regional_Sanford ME
+SGS_Sanga Sanga Airport_\N
+EAE_Sangafa Airport_Sangafa
+MBJ_Sangster Intl_Montego Bay
+TTU_Saniat Rmel_Tetouan
+YSK_Sanikiluaq Airport_Sanikiluaq
+SFQ_Sanliurfa Airport_\N
+CRC_Santa Ana Airport_Cartago
+STB_Santa Barbara Del Zulia_Santa Barbara
+SBA_Santa Barbara Muni_Santa Barbara
+SCZ_Santa Cruz/Graciosa Bay/Luova Airport_Santa Cruz/Graciosa Bay/Luova
+STU_Santa Cruz_Rio De Janeiro
+RZA_Santa Cruz_Santa Cruz
+SRZ_Santa Cruz_Santa Cruz
+SNV_Santa Elena Airport_Santa Elena de Uairen
+SAF_Santa Fe Muni_Santa Fe
+GYN_Santa Genoveva_Goiania
+RIA_Santa Maria Airport_Santa Maria
+SMX_Santa Maria Pub Cpt G Allan Hancock Airport_Santa Maria
+AJU_Santa Maria_Aracaju
+SMA_Santa Maria_Santa Maria (island)
+STM_Santa Maria_Santarem
+SRA_Santa Rosa Airport_Santa Rosa
+RSA_Santa Rosa_Santa Rosa
+SST_Santa Teresita Airport_Santa Teresita
+SDR_Santander_Santander
+SDE_Santiago Del Estero_Santiago Del Estero
+AUC_Santiago Perez_Arauca
+SCQ_Santiago_Santiago
+GEL_Santo Angelo_Santo Angelo
+SON_Santo Pekoa International Airport_\N
+JTR_Santorini_Santorini
+SDU_Santos Dumont_Rio De Janeiro
+SJZ_Sao Jorge_Sao Jorge Island
+SJP_Sao Jose Do Rio Preto_Sao Jose Do Rio Preto
+VXE_Sao Pedro_Sao Vicente Island
+TMS_Sao Tome Intl_Sao Tome
+SSR_Sara Airport_Pentecost Island
+SJJ_Sarajevo_Sarajevo
+SKX_Saransk Airport_Saransk
+SRQ_Sarasota Bradenton Intl_Sarasota
+SRH_Sarh Airport_Sarh
+SRY_Sari Dasht E Naz Airport_\N
+KGF_Sary-Arka_Karaganda
+YXE_Saskatoon J G Diefenbaker Intl_Saskatoon
+RTG_Satar Tacik_Ruteng
+TNI_Satna_Satna
+SUJ_Satu Mare_Satu Mare
+SFN_Sauce Viejo_Santa Fe
+YAM_Sault Ste Marie_Sault Sainte Marie
+VHC_Saurimo_Saurimo
+SAV_Savannah Hilton Head Intl_Savannah
+ZVK_Savannakhet_Savannakhet
+GSE_Save_Gothenborg
+SVL_Savonlinna_Savonlinna
+SVU_Savusavu Airport_Savusavu
+MQT_Sawyer International_Marquette
+GXF_Sayun International Airport_\N
+SPB_Scappoose Industrial Airpark_San Luis
+SDZ_Scatsta_Scatsta
+YKL_Schefferville_Schefferville
+AMS_Schiphol_Amsterdam
+GLS_Scholes Intl At Galveston_Galveston
+SXF_Schonefeld_Berlin
+VIE_Schwechat_Vienna
+SZW_Schwerin Parchim_Parchim
+BLV_Scott Afb Midamerica_Belleville
+SDV_Sde Dov_Tel-aviv
+SEA_Seattle Tacoma Intl_Seattle
+SEB_Sebha_Sebha
+SDX_Sedona_Sedona
+MCT_Seeb Intl_Muscat
+SYW_Sehwan Sharif Airport_Sehwan Sharif
+SJY_SeinÃ¤joki Airport_SeinÃ¤joki / Ilmajoki
+AMI_Selaparang_Mataram
+PKW_Selebi Phikwe_Selebi-phikwe
+XSP_Seletar_Singapore
+MTC_Selfridge Angb_Mount Clemens
+SEY_Selibady_Selibabi
+DLX_Semipalatinsk Airport_Semey
+PLX_Semipalatinsk_Semiplatinsk
+PNZ_Senador Nilo Coelho_Petrolina
+THE_Senador Petronio Portella_Teresina
+SDJ_Sendai_Sendai
+SEH_Senggeh Airport_Senggeh-Papua Island
+BKO_Senou_Bamako
+DJJ_Sentani_Jayapura
+LEU_Seo De Urgel_Seo De Urgel
+SSN_Seoul Ab_Seoul East
+BPN_Sepinggan_Balikpapan
+YZV_Sept Iles_Sept-iles
+SEU_Seronera_Seronera
+SVQ_Sevilla_Sevilla
+SEZ_Seychelles Intl_Mahe
+GSB_Seymour Johnson Afb_Goldsboro
+GPS_Seymour_Galapagos
+CGP_Shah Amanat Intl_Chittagong
+RJH_Shah Mokhdum_Rajshahi
+KSH_Shahid Ashrafi Esfahani_Bakhtaran
+QMJ_Shahid Asyaee_Masjed Soleiman
+SWX_Shakawe Airport_Shakawe
+ZTM_Shamattawa Airport_Shamattawa
+KNH_Shang Yi_Chinmen
+SNN_Shannon_Shannon
+SHJ_Sharjah Intl_Sharjah
+DNM_Shark Bay Airport_\N
+SSH_Sharm El Sheikh Intl_Sharm El Sheikh
+SHW_Sharurah_Sharurah
+SSC_Shaw Afb_Sumter
+YAW_Shearwater_Halifax
+RYK_Sheikh Zayed_Rahim Yar Khan
+SHE_Shenyang Taoxian International Airport_Shenyang
+SPS_Sheppard Afb Wichita Falls Muni_Wichita Falls
+BTE_Sherbro International Airport_Bonthe
+YSC_Sherbrooke_Sherbrooke
+SVO_Sheremetyevo_Moscow
+SHR_Sheridan County Airport_Sheridan
+FLV_Sherman Aaf_Fort Leavenworth
+SJW_Shijiazhuang Daguocun International Airport_Shijiazhuang
+HIL_Shilavo Airport_Shilavo
+SHL_Shillong Airport_Shillong
+SHI_Shimojishima_Shimojishima
+SHY_Shinyanga Airport_Shinyanga
+SYZ_Shiraz Shahid Dastghaib Intl_Shiraz
+SHC_Shire Inda Selassie Airport_Shire Indasilase
+SSE_Sholapur_Sholapur
+SYO_Shonai Airport_\N
+ESH_Shoreham_Shoreham By Sea
+STW_Shpakovskoye_Stavropol
+SHV_Shreveport Rgnl_Shreveport
+CTU_Shuangliu_Chengdu
+LYI_Shubuling Airport_Linyi
+CIT_Shymkent_Chimkent
+SQQ_Siauliai Intl_Siauliai
+SBZ_Sibiu_Sibiu
+SBW_Sibu_Sibu
+TGR_Sidi Mahdi_Touggourt
+REP_Siem Reap_Siem-reap
+MZO_Sierra Maestra_Manzanillo
+FHU_Sierra Vista Muni Libby Aaf_Fort Huachuca
+SIJ_Siglufjordur_Siglufjordur
+NSY_Sigonella_Sigonella
+KOS_Sihanukville_Sihanukville
+IXS_Silchar_Silchar
+ASU_Silvio Pettirossi Intl_Asuncion
+SYM_Simao Airport_Simao
+SIF_Simara_Simara
+SIP_Simferopol Intl_Simferopol
+IMK_Simikot_Simikot
+CCS_Simon Bolivar Intl_Caracas
+SMR_Simon Bolivar_Santa Marta
+SIN_Singapore Changi Intl_Singapore
+SQG_Sintang(Susilo) Airport_Sintang-Borneo Island
+SIR_Sion_Sion
+FSD_Sioux Falls_Sioux Falls
+SUX_Sioux Gateway Col Bud Day Fld_Sioux City
+YXL_Sioux Lookout_Sioux Lookout
+MRU_Sir Seewoosagur Ramgoolam Intl_Plaisance
+GBE_Sir Seretse Khama Intl_Gaberone
+SIS_Sishen_Sishen
+JHS_Sisimiut Airport_Sisimiut
+JSH_Sitia_Sitia
+SIT_Sitka Rocky Gutierrez_Sitka
+AKY_Sittwe_Sittwe
+VAS_Sivas_Sivas
+SKN_Skagen_Stokmarknes
+SGY_Skagway Airport_Skagway
+KDU_Skardu Airport_Skardu
+NYO_Skavsta_Stockholm
+SFT_Skelleftea_Skelleftea
+SKU_Skiros_Skiros
+SKP_Skopje_Skopje
+KVB_Skovde_Skovde
+SKS_Skrydstrup_Skrydstrup
+SZK_Skukuza_Skukuza
+YZH_Slave Lake_Slave Lake
+SLD_Sliac_Sliac
+SXL_Sligo_Sligo
+ISN_Sloulin Fld Intl_Williston
+SMW_Smara Airport_Smara
+SMD_Smith Fld_Fort Wayne IN
+INT_Smith Reynolds_Winston-salem
+YYD_Smithers_Smithers
+PAE_Snohomish Co_Everett
+DWB_Soalala Airport_Soalala
+AER_Sochi_Sochi
+SCT_Socotra Intl_Socotra
+SOT_Sodankyla_Sodankyla
+CGK_Soekarno Hatta Intl_Jakarta
+SSB_Soesterberg Airport_\N
+UTC_Soesterberg_Soesterberg
+SOF_Sofia_Sofia
+SOG_Sogndal Airport_Sogndal
+SHO_Sokcho_Sokch'o
+GDX_Sokol_Magadan
+SLH_Sola Airport_Sola
+SVG_Sola_Stavanger
+SOZ_Solenzara_Solenzara
+CSH_Solovki Airport_Solovetsky Islands
+SLI_Solwesi Airport_Solwesi
+PMI_Son Sant Joan_Palma de Mallorca
+SGD_Sonderborg_Soenderborg
+NOE_Sonderlandeplatz Norden-Norddeich_Norden
+SFJ_Sondre Stromfjord_Sondrestrom
+SOJ_Sorkjosen Airport_\N
+SOD_Sorocaba Airport_Sorocaba
+SRT_Soroti_Soroti
+SRP_Sorstokken_Stord
+NIT_Souche_Niort
+CHQ_Souda_Chania
+BJA_Soummam_Bejaja
+ELD_South Arkansas Rgnl At Goodwin Fld_El Dorado
+SBN_South Bend Rgnl_South Bend
+BIM_South Bimini_Alice Town
+XSC_South Caicos_South Caicos
+SOU_Southampton_Southampton
+KIW_Southdowns_Southdowns
+BRL_Southeast Iowa Regional Airport_Burlington
+BPT_Southeast Texas Rgnl_Beaumont
+SEN_Southend_Southend
+VCV_Southern California Logistics_Victorville
+YPG_Southport_Portage-la-prairie
+SWJ_Southwest Bay Airport_Malekula Island
+RSW_Southwest Florida Intl_Fort Myers
+ABY_Southwest Georgia Regional Airport_Albany
+OTH_Southwest Oregon Regional Airport_North Bend
+OVS_Sovetsky Tyumenskaya Airport_Sovetskiy
+SZA_Soyo_Soyo
+SPM_Spangdahlem Ab_Spangdahlem
+SVW_Sparrevohn Lrrs_Sparrevohn
+ZQC_Speyer_Speyer
+NOZ_Spichenkovo Airport_Novokuznetsk
+SPU_Split_Split
+GEG_Spokane Intl_Spokane
+AXP_Spring Point_Spring Point
+SBU_Springbok_Springbok
+SGF_Springfield Branson Natl_Springfield
+SXR_Srinagar_Srinagar
+RCO_St Agnant_Rochefort
+ENK_St Angelo_Enniskillen
+YAY_St Anthony_St. Anthony
+SKV_St Catherine Intl_St. Catherine
+PHN_St Clair Co Intl_Port Huron
+RUN_St Denis Gillot_St.-denis
+ACH_St Gallen Altenrhein_Altenrhein
+DOL_St Gatien_Deauville
+SGO_St George Airport_\N
+SGU_St George Muni_Saint George
+PBV_St George_Point Barrow
+YHU_St Hubert_Montreal
+RNS_St Jacques_Rennes
+YJN_St Jean_St. Jean
+YYT_St Johns Intl_St. John's
+NQY_St Mawgan_Newquai
+SNP_St Paul Island_St. Paul Island
+PIE_St Petersburg Clearwater Intl_St. Petersburg
+PSG_St Petersburg_St Petersburg
+ZSE_St Pierre Pierrefonds_St.-pierre
+FSP_St Pierre_St.-pierre
+SFC_St-FranÃ§ois Airport_St-FranÃ§ois
+YFX_St. Lewis (Fox Harbour) Airport_St. Lewis
+YST_St. Theresa Point Airport_St. Theresa Point
+KBU_Stagen Airport_Laut Island
+PSY_Stanley Airport_Stanley
+STN_Stansted_London
+RYB_Staroselye Airport_Rybinsk
+STA_Stauning_Stauning
+SCV_Stefan Cel Mare_Suceava
+SML_Stella Maris_Stella Maris
+BKD_Stephens Co_Breckenridge
+YJT_Stephenville_Stephenville
+SWF_Stewart Intl_Newburgh
+SCK_Stockton Metropolitan_Stockton
+SSJ_Stokka_Sandnessjoen
+YSF_Stony Rapids Airport_Stony Rapids
+SYY_Stornoway_Stornoway
+SQO_Storuman Airport_\N
+WRO_Strachowice_Wroclaw
+SRN_Strahan Airport_\N
+GOJ_Strigino_Nizhniy Novgorod
+SOY_Stronsay Airport_Stronsay
+MMX_Sturup_Malmoe
+ZWS_Stuttgart Railway Station_Stuttgart
+STR_Stuttgart_Stuttgart
+VAO_Suavanao Airport_Suavanao
+SFH_Sub Teniente Nestor Arias_San Felipe
+SFS_Subic Bay International Airport_Olongapo City
+FSC_Sud Corse_Figari
+YSB_Sudbury_Sudbury
+SGR_Sugar Land Regional Airport_Sugar Land
+SUL_Sui_Sui
+THS_Sukhothai_Sukhothai
+SKC_Suki Airport_Suki
+SKZ_Sukkur_Sukkur
+SLF_Sulayel_Sulayel
+OSO_Sulaymaniyah International Airport_Sulaymaniyah
+SZB_Sultan Abdul Aziz Shah Intl_Kuala Lumpur
+AOR_Sultan Abdul Halim_Alor Setar
+IPH_Sultan Azlan Shah_Ipoh
+TTE_Sultan Babullah_Ternate
+BTJ_Sultan Iskandarmuda_Banda Aceh
+KBR_Sultan Ismail Petra_Kota Bahru
+JHB_Sultan Ismail_Johor Bahru
+PLM_Sultan Mahmud Badaruddin Ii_Palembang
+TGG_Sultan Mahmud_Kuala Terengganu
+PKU_Sultan Syarif Kasim Ii_Pekanbaru
+DJB_Sultan Thaha_Jambi
+SWQ_Sumbawa Besar Airport_Sumbawa Island
+SWG_Sumbawa Besar_Sumbawa
+LSI_Sumburgh_Sumburgh
+SUR_Summer Beaver Airport_Summer Beaver
+YSU_Summerside_Summerside
+SDL_Sundsvall Harnosand_Sundsvall
+TSA_Sungshan_Taipei
+NYI_Sunyani_Sunyani
+PNK_Supadio_Pontianak
+URT_Surat Thani_Surat Thani
+STV_Surat_Surat
+SGC_Surgut_Surgut
+SUG_Surigao Airport_\N
+SKH_Surkhet_Surkhet
+SQC_Susilo_Sintang
+BKK_Suvarnabhumi Intl_Bangkok
+VAW_Svartnes Airport_VardÃ¸
+EVG_Sveg_Sveg
+SVJ_SvolvÃ¦r Helle Airport_SvolvÃ¦r
+SWP_Swakopmund Airport_Swakopmund
+ZJN_Swan River Airport_Swan River
+SWS_Swansea_Swansea
+YYN_Swift Current_Swift Current
+BDJ_Syamsudin Noor_Banjarmasin
+BWU_Sydney Bankstown_Sydney
+SYD_Sydney Intl_Sydney
+YQY_Sydney_Sydney
+SCW_Syktyvkar_Syktyvkar
+SYR_Syracuse Hancock Intl_Syracuse
+JSY_Syros Airport_Syros Island
+SOB_SÃ¡rmellÃ©k International Airport_SÃ¡rmellÃ©k
+TCP_Taba Intl_Taba
+TBT_Tabatinga_Tabatinga
+PDG_Tabing_Padang
+TBF_Tabiteuea North_Tabiteuea North
+TBO_Tabora Airport_Tabora
+TBZ_Tabriz Intl_Tabriz
+TBG_Tabubil Airport_Tabubil
+TUU_Tabuk_Tabuk
+THL_Tachileik_Tachilek
+ATP_Tadji Airport_Aitape
+TAF_Tafaraoui_Oran
+TAG_Tagbilaran_Tagbilaran
+THZ_Tahoua_Tahoua
+RMQ_Taichung_Shalu
+TIF_Taif_Taif
+TNN_Tainan_Tainan
+HRB_Taiping_Harbin
+TAI_Taiz Intl_Taiz
+PAZ_Tajin_Poza Rico
+TAK_Takamatsu_Takamatsu
+TKP_Takapoto_Takapoto
+TKX_Takaroa_Takaroa
+TKD_Takoradi_Takoradi
+ARH_Talagi_Arkhangelsk
+BJZ_Talavera La Real_Badajoz
+BDN_Talhar_Talhar
+TKA_Talkeetna_Talkeetna
+TLH_Tallahassee Rgnl_Tallahassee
+TLL_Tallinn_Tallinn-ulemiste International
+YYH_Taloyoak_Spence Bay
+TML_Tamale_Tamale
+TMR_Tamanrasset_Tamanrasset
+TUD_Tambacounda_Tambacounda
+WTA_Tambohorano Airport_Tambohorano
+TMC_Tambolaka Airport_Waikabubak-Sumba Island
+TME_Tame_Tame
+TPA_Tampa Intl_Tampa
+TMP_Tampere Pirkkala_Tampere
+TSL_Tamuin_Tamuin
+TMW_Tamworth_Tamworth
+CNF_Tancredo Neves Intl_Belo Horizonte
+TDG_Tandag Airport_\N
+TDL_Tandil_Tandil
+TGT_Tanga_Tanga
+TJS_Tanjung Harapan Airport_Tanjung Selor-Borneo Island
+TAH_Tanna island_Tanna
+SGN_Tansonnhat Intl_Ho Chi Minh City
+TPE_Taoyuan Intl_Taipei
+TAP_Tapachula Intl_Tapachula
+TPJ_Taplejung_Taplejung
+TRA_Tarama_Taramajima
+TCD_TarapacÃ¡ Airport_TarapacÃ¡
+TPC_Tarapoa_Tarapoa
+XVF_Tarare_Vilefrance
+DMB_Taraz_Dzhambul
+TIZ_Tari Airport_Tari
+TAY_Tartu_Tartu-ulenurme
+TLJ_Tatalina Lrrs_Tatalina
+TAT_Tatry_Poprad
+TUO_Taupo_Taupo
+TRG_Tauranga_Tauranga
+BAY_Tautii Magheraus_Baia Mare
+DLE_Tavaux_Dole
+PBJ_Tavie Airport_Paama Island
+TWU_Tawau_Tawau
+TBS_Tbilisi_Tbilisi
+TCH_Tchibanga Airport_Tchibanga
+ANC_Ted Stevens Anchorage Intl_Anchorage
+TFF_Tefe_Tefe
+TXL_Tegel_Berlin
+TCN_Tehuacan_Tehuacan
+TEA_Tela_Tela
+TEX_Telluride_Telluride
+SRI_Temindung_Samarinda
+THF_Tempelhof_Berlin
+UDI_Ten Cel Av Cesar Bombonato_Uberlandia
+TFN_Tenerife Norte_Tenerife
+TFS_Tenerife Sur_Tenerife
+CUZ_Teniente Alejandro Velasco Astete Intl_Cuzco
+TUC_Teniente Benjamin Matienzo_Tucuman
+TUA_Teniente Coronel Luis A Mantilla_Tulcan
+CHM_Teniente Jaime A De Montreuil Morales_Chimbote
+GXQ_Teniente Vidal_Coyhaique
+TCA_Tennant Creek Airport_Tennant Creek
+TPQ_Tepic_Tepic
+TMJ_Termez Airport_Termez
+YXT_Terrace_Terrace
+EIS_Terrance B Lettsome Intl_Roadtown/beef Island
+HUF_Terre Haute Intl Hulman Fld_Terre Haute
+YZW_Teslin_Teslin
+TET_Tete Chingodzi_Tete
+TEB_Teterboro_Teterboro
+YGB_Texada Gillies Bay Airport_Texada
+TXK_Texarkana Rgnl Webb Fld_Texarkana
+BEV_Teyman_Beer-sheba
+TEZ_Tezpur Airport_\N
+TMK_Thamkharka_Thamkharka
+SNW_Thandwe_Thandwe
+THG_Thangool_Biloela
+XTG_Thargomindah Airport_\N
+YQD_The Pas Airport_The Pas
+PVD_Theodore Francis Green State_Providence
+TRV_Thiruvananthapuram Intl_Trivandrum
+TED_Thisted_Thisted
+YTH_Thompson_Thompson
+THO_Thorshofn Airport_Thorshofn
+THU_Thule Air Base_Thule
+TTH_Thumrait_Thumrait
+YQT_Thunder Bay_Thunder Bay
+SFA_Thyna_Sfax
+WUH_Tianhe_Wuhan
+TIY_Tidjikja_Tidjikja
+TGJ_Tiga Airport_Tiga
+TIH_Tikehau_Tikehau
+TKC_Tiko_Tiko
+IKS_Tiksi Airport_Tiksi
+BVA_Tille_Beauvais
+TIU_Timaru_Timaru
+TMX_Timimoun_Timimoun
+YXR_Timiskaming Rgnl_Earlton
+YTS_Timmins_Timmins
+TIN_Tindouf_Tindouf
+TIK_Tinker Afb_Oklahoma City
+KTP_Tinson Pen_Kingston
+TIE_Tippi Airport_Tippi
+FME_Tipton_Fort Meade
+TIA_Tirana Rinas_Tirana
+TRE_Tiree_Tiree
+TRZ_Tiruchirappalli_Tiruchchirappalli
+TIR_Tirupati_Tirupeti
+DJG_Tiska_Djanet
+TIV_Tivat_Tivat
+PKY_Tjilik Riwut_Palangkaraya
+TXA_Tlaxcala_Tlaxcala
+TMM_Toamasina_Toamasina
+SYQ_Tobias Bolanos International Airport_San Jose
+PTY_Tocumen Intl_Panama City
+YAZ_Tofino_Tofino
+RAB_Tokua Airport_\N
+TKN_Tokunoshima_Tokunoshima
+TKS_Tokushima_Tokushima
+HND_Tokyo Intl_Tokyo
+FTU_Tolagnaro_Tolagnaro
+TOW_Toledo Airport_Toledo
+TOL_Toledo_Toledo
+TLE_Toliara_Toliara
+OVB_Tolmachevo_Novosibirsk
+TMG_Tomanggong Airport_Tomanggong
+TOM_Tombouctou_Tombouctou
+TOF_Tomsk Bogashevo Airport_Tomsk
+TGU_Toncontin Intl_Tegucigalpa
+TGO_Tongliao Airport_Tongliao
+TGH_Tongoa Island Airport_Tongoa Island
+TNX_Tonopah Test Range_Tonopah
+TRN_Torino_Torino
+TRF_Torp_Torp
+TOJ_Torrejon_Madrid
+TRC_Torreon Intl_Torreon
+TOH_Torres Airstrip_Loh/Linua
+TYF_Torsby Airport_\N
+TTB_Tortoli_Tortoli
+GMR_Totegegie_Totegegie
+TTJ_Tottori_Tottori
+AZR_Touat Cheikh Sidi Mohamed Belkebir_Adrar
+TOU_Touho_Touho
+XHE_Toulon-HyÃ¨res Airport_Toulon/HyÃ¨res/Le Palyvestre
+PAP_Toussaint Louverture Intl_Port-au-prince
+TNF_Toussus Le Noble_Toussous-le-noble
+TSV_Townsville_Townsville
+TOY_Toyama_Toyama
+TZX_Trabzon_Trabzon
+TSR_Traian Vuia_Timisoara
+TST_Trang_Trang
+TGM_Transilvania Targu Mures_Tirgu Mures
+TPS_Trapani Birgi_Trapani
+TDX_Trat_Trat
+SUU_Travis Afb_Fairfield
+TCB_Treasure Cay_Treasure Cay
+TTN_Trenton Mercer_Trenton
+YTR_Trenton_Trenton
+PUU_Tres De Mayo_Puerto Asis
+TSF_Treviso_Treviso
+PSC_Tri Cities Airport_Pasco
+HTS_Tri State Milton J Ferguson Field_Huntington
+TRI_Tri-Cities Regional Airport_BRISTOL
+KTM_Tribhuvan Intl_Kathmandu
+ZQF_Trier Fohren_Trier
+TIP_Tripoli Intl_Tripoli
+THN_Trollhattan Vanersborg_Trollhattan
+TCS_Truth Or Consequences Muni_Truth Or Consequences
+VCA_TrÃ  NÃ³c Airport_Can Tho
+TTS_Tsaratanana Airport_Tsaratanana
+TSH_Tshikapa Airport_Tshikapa
+MAT_Tshimpi Airport_Matadi
+WTS_Tsiroanomandidy Airport_Tsiroanomandidy
+CNW_Tstc Waco_Waco
+TSJ_Tsushima_Tsushima
+TDD_Tte Av Jorge Henrich Arauz_Trinidad
+PSZ_Tte De Av Salvador Ogaya G_Puerto Suarez
+TUB_Tubuai_Tubuai
+TUS_Tucson Intl_Tucson
+TCC_Tucumcari Muni_Tucumcari
+TUV_Tucupita_Tucupita
+TUR_Tucurui_Tucurui
+TFI_Tufi Airport_Tufi
+TUG_Tuguegarao Airport_\N
+YUB_Tuktoyaktuk_Tuktoyaktuk
+ZFN_Tulita_Tulita
+TUL_Tulsa Intl_Tulsa
+DNP_Tulsipur_Dang
+TMI_Tumling Tar_Tumling Tar
+CXP_Tunggul Wulung_Cilacap
+TXN_Tunxi International Airport_Huangshan
+TUP_Tupelo Regional Airport_Tupelo
+TUI_Turaif_Turaif
+BRQ_Turany_Turany
+TUK_Turbat International Airport_Turbat
+TRB_Turbat Intl_Turbo
+CRZ_Turkmenabat_Turkmenabat
+KRW_Turkmenbashi_Krasnovodsk
+TKU_Turku_Turku
+TCL_Tuscaloosa Rgnl_Tuscaloosa AL
+HVN_Tweed-New Haven Airport_New Haven
+ENS_Twenthe_Enschede
+NXP_Twentynine Palms Eaf_Twenty Nine Palms
+TYR_Tyler Pounds Rgnl_Tyler
+PAM_Tyndall Afb_Panama City
+LTA_Tzaneen_Tzaneen
+ZTB_TÃªte-Ã -la-Baleine Airport_TÃªte-Ã -la-Baleine
+UTP_U Taphao Intl_Pattaya
+UAH_Ua Huka Airport_Ua Huka
+UAP_Ua Pou Airport_Ua Pou
+QUB_Ubari Airport_Ubari
+UBA_Uberaba_Uberaba
+UBP_Ubon Ratchathani_Ubon Ratchathani
+UDR_Udaipur_Udaipur
+UTH_Udon Thani_Udon Thani
+UFA_Ufa_Ufa
+DYR_Ugolny Airport_Anadyr
+UGO_Uige_Uige
+UJE_Ujae Atoll Airport_Ujae Atoll
+UCT_Ukhta_Ukhta
+HLH_Ulanhot Airport_Ulanhot
+USN_Ulsan_Ulsan
+YHI_Ulukhaktok Holman_Holman Island
+ULY_Ulyanovsk East Airport_Ulyanovsk
+ULB_UlÃ©i Airport_Ambryn Island
+UME_Umea_Umea
+YUD_Umiujaq Airport_Umiujaq
+DUT_Unalaska_Unalaska
+UNI_Union Island International Airport_Union Island
+SCE_University Park Airport_State College Pennsylvania
+JUV_Upernavik Airport_Upernavik
+UTN_Upington_Upington
+UPP_Upolu_Opolu
+URJ_Uraj_Uraj
+URA_Uralsk_Uralsk
+YBE_Uranium City Airport_Uranium City
+UGC_Urgench Airport_Urgench
+OMH_Uromiyeh Airport_\N
+ATD_Uru Harbour Airport_Atoifi
+USQ_Usak Airport_\N
+USH_Ushuaia Malvinas Argentinas_Ushuaia
+IPN_Usiminas_Ipatinga
+USK_Usinsk_Usinsk
+UKK_Ust Kamenogorsk Airport_Ust Kamenogorsk
+UIK_Ust-Ilimsk_Ust Ilimsk
+UII_Utila Airport_Utila
+UTK_Utirik Airport_Utirik Island
+QVY_Utti_Utti
+MCX_Uytash_Makhachkala
+UDJ_Uzhhorod International Airport_\N
+HKV_Uzundzhovo_Haskovo
+ANU_V C Bird Intl_Antigua
+VAA_Vaasa_Vaasa
+BDQ_Vadodara_Baroda
+TRD_Vaernes_Trondheim
+FAE_Vagar_Vagar
+YVO_Val D Or_Val D'or
+BEL_Val De Cans Intl_Belem
+TUF_Val De Loire_Tours
+HVG_Valan_Honningsvag
+VDZ_Valdez Pioneer Fld_Valdez
+VLD_Valdosta Regional Airport_Valdosta
+VLC_Valencia_Valencia
+VLS_Valesdir Airport_Valesdir
+LID_Valkenburg_Valkenburg
+VLL_Valladolid_Valladolid
+VDP_Valle De La Pascua_Valle De La Pascua
+LMM_Valle Del Fuerte Intl_Los Mochis
+URO_Vallee De Seine_Rouen
+HRL_Valley Intl_Harlingen
+VNY_Van Nuys_Van Nuys
+VAN_Van_Van
+END_Vance Afb_Enid
+NEV_Vance Winkworth Amory International Airport_\N
+CXH_Vancouver Coal Harbour_Vancouver
+YHC_Vancouver Harbour Water Airport_\N
+YVR_Vancouver Intl_Vancouver
+VBG_Vandenberg Afb_Lompoc
+VVC_Vanguardia_Villavicencio
+VAI_Vanimo Airport_\N
+VBV_Vanua Balavu Airport_Vanua Balavu
+VNS_Varanasi_Varanasi
+VRK_Varkaus_Varkaus
+VAR_Varna_Varna
+VST_Vasteras_Vasteras
+VAV_Vavau Intl_Vava'u
+VCE_Venezia Tessera_Venice
+VTS_Ventspils International Airport_Ventspils
+VNT_Ventspils Intl_Ventspils
+JUI_Verkehrslandeplatz Juist_Juist
+YVG_Vermilion_Vermillion
+VRB_Vero Beach Muni_Vero Beach
+VEY_Vestmannaeyjar_Vestmannaeyjar
+BZR_Vias_Beziers
+VIC_Vicenza_Vicenza
+VFA_Victoria Falls Intl_Victoria Falls
+YWH_Victoria Inner Harbour Airport_Victoria
+YYJ_Victoria Intl_Victoria
+VCT_Victoria Regional Airport_Victoria
+VCD_Victoria River Downs Airport_\N
+VGO_Vigo_Vigo
+AES_Vigra_Alesund
+VGA_Vijayawada_Vijayawada
+VRL_Vila Real_Vila Real
+VNX_Vilankulo_Vilankulu
+VHM_Vilhelmina_Vilhelmina
+BVH_Vilhena_Vilhena
+VDR_Villa Dolores_Villa Dolores
+VLG_Villa Gesell_Villa Gesell
+VRN_Villafranca_Villafranca
+VNO_Vilnius Intl_Vilnius
+CYO_Vilo Acuna Intl_Cayo
+VII_Vinh Airport_\N
+VRC_Virac Airport_Virac
+CPQ_Viracopos Airport_Campinas
+VCP_Viracopos_Campinas
+VIJ_Virgin Gorda Airport_Spanish Town
+VIR_Virginia_Durban
+VVI_Viru Viru Intl_Santa Cruz
+VBY_Visby_Visby
+VTZ_Vishakhapatnam_Vishakhapatnam
+VTB_Vitebsk_Vitebsk
+VIT_Vitoria_Vitoria
+AAQ_Vityazevo_Anapa
+VDC_VitÃ³ria da Conquista Airport_VitÃ³ria Da Conquista
+VKO_Vnukovo_Moscow
+VOH_Vohimarina_Vohemar
+VPN_VopnafjÃ¶rÃ°ur Airport_VopnafjÃ¶rÃ°ur
+VKT_Vorkuta Airport_Vorkuta
+VRU_Vryburg_Vryburg
+KDV_Vunisea Airport_Vunisea
+VRY_VÃ¦rÃ¸y Heliport_VÃ¦rÃ¸y
+YWK_Wabush_Wabush
+ACT_Waco Rgnl_Waco
+WTN_Waddington_Waddington
+EWD_Wadi Al Dawasir Airport_\N
+WGA_Wagga Wagga_Wagga Wagga
+MOF_Wai Oti_Maumere
+SWA_Wai Sha Airport_Shantou
+MUE_Waimea Kohala_Kamuela
+K03_Wainwright As_Fort Wainwright
+WJR_Wajir_Wajir
+WKJ_Wakkanai_Wakkanai
+JRB_Wall Street Heliport_New York
+ALW_Walla Walla Regional Airport_Walla Walla
+AXA_Wallblake_The Valley
+WLS_Wallis_Wallis
+WAL_Wallops Flight Facility_Wallops Island
+BWF_Walney Island_Barrow Island
+WMX_Wamena_Wamena
+WKA_Wanaka_Wanaka
+WOT_Wang An_Wang An
+WAG_Wanganui_Wanganui
+WXN_Wanxian Airport_Wanxian
+WBM_Wapenamanda Airport_\N
+SYU_Warraber Island Airport_Sue Islet
+TJG_Warukin Airport_Tanjung-Borneo Island
+IAD_Washington Dulles Intl_Washington
+YKQ_Waskaganish Airport_Waskaganish
+WAT_Waterford_Waterford
+ALO_Waterloo Regional Airport_Waterloo
+YKF_Waterloo_Waterloo
+ART_Watertown Intl_Watertown
+ATY_Watertown Regional Airport_Watertown
+YQH_Watson Lake_Watson Lake
+VTE_Wattay Intl_Vientiane
+UGN_Waukegan Rgnl_Chicago
+TBN_Waynesville Rgnl Arpt At Forney Fld_Fort Leonardwood
+YWP_Webequie Airport_Webequie
+WEF_Weifang Airport_Weifang
+WEH_Weihai Airport_Weihai
+WEI_Weipa_Weipa
+EJH_Wejh_Wejh
+WEL_Welkom_Welkom
+WLG_Wellington Intl_Wellington
+YNC_Wemindji Airport_Wemindji
+ENV_Wendover_Wendover
+WNZ_Wenzhou Yongqiang Airport_Wenzhou
+IWS_West Houston_Houston
+HPN_Westchester Co_White Plains
+GWT_Westerland Sylt_Westerland
+BFF_Western Nebraska Regional Airport_Scottsbluff
+WST_Weston Airport_Leixlip
+CEF_Westover Arb Metropolitan_Chicopee Falls
+WSZ_Westport_Westport
+WRY_Westray Airport_Westray
+QKT_Wevelgem_Kortrijk-vevelgem
+WWK_Wewak Intl_Wewak
+WHK_Whakatane_Whakatane
+YXN_Whale Cove Airport_Whale Cove
+WRE_Whangarei_Whangarei
+YLE_WhatÃ¬ Airport_WhatÃ¬
+HHI_Wheeler Aaf_Wheeler Afb.
+GTB_Wheeler Sack Aaf_Fort Drum
+NUW_Whidbey Island Nas_Whidbey Island
+YWS_Whistler/Green Lake Water Aerodrome_Whistler
+YZU_Whitecourt_Whitecourt
+YXY_Whitehorse Intl_Whitehorse
+SZL_Whiteman Afb_Knobnoster
+NSE_Whiting Fld Nas North_Milton
+WYA_Whyalla Airport_Whyalla
+YVV_Wiarton_Wiarton
+ICT_Wichita Mid Continent_Wichita
+WIC_Wick_Wick
+BRW_Wiley Post Will Rogers Mem_Barrow
+WVN_Wilhelmshaven Mariensiel_Wilhelmshaven
+AVP_Wilkes Barre Scranton Intl_Scranton
+OKC_Will Rogers World_Oklahoma City
+HOU_William P Hobby_Houston
+CLM_William R Fairchild International Airport_Port Angeles
+YWM_Williams Harbour Airport_Williams Harbour
+YWL_Williams Lake_Williams Lake
+IPT_Williamsport Rgnl_Williamsport
+NXX_Willow Grove Nas Jrb_Willow Grove
+YIP_Willow Run_Detroit
+ILM_Wilmington Intl_Wilmington
+WUN_Wiluna Airport_\N
+WDH_Windhoek Hosea Kutako International Airport _Windhoek
+WNR_Windorah Airport_\N
+YQG_Windsor_Windsor
+INK_Winkler Co_Wink
+YWG_Winnipeg Intl_Winnipeg
+YAV_Winnipeg St Andrews_Winnipeg
+WIN_Winton Airport_\N
+WPM_Wipim Airport_Wipim
+WRZ_Wirawila Airport_\N
+WOE_Woensdrecht_Woensdrecht
+KLU_Woerthersee International Airport_Klagenfurt
+WJA_Woja Airport_Majuro Atoll
+GGW_Wokal Field Glasgow International Airport_Glasgow
+ZWL_Wollaston Lake Airport_Wollaston Lake
+WOL_Wollongong Airport_\N
+KDI_Wolter Monginsidi_Kendari
+PRY_Wonderboom_Pretoria
+WJU_Wonju Airport_\N
+BHE_Woodbourne_Woodbourne
+UMR_Woomera_Woomera
+WRL_Worland Municipal Airport_Worland
+WTO_Wotho Island Airport_Wotho Island
+WTE_Wotje Atoll Airport_Wotje Atoll
+WRG_Wrangell Airport_Wrangell
+LHW_Wright Aaf_Wright
+FFO_Wright Patterson Afb_Dayton
+YWY_Wrigley_Wrigley
+KMG_Wujiaba_Kunming
+WNN_Wunnumin Lake Airport_Wunnumin Lake
+TYN_Wusu_Taiyuan
+WUX_Wuxi Airport_Wuxi
+NNG_Wuxu_Nanning
+BWT_Wynyard Airport_Burnie
+XGN_Xangongo_Xangongo
+GZM_Xewkija Heliport_Gozo
+XFN_Xiangfan Airport_Xiangfan
+XIY_Xianyang_Xi'an
+HGH_Xiaoshan_Hangzhou
+XKH_Xieng Khouang_Phon Savan
+XIL_Xilinhot Airport_Xilinhot
+XNN_Xining Caojiabu Airport_Xining
+CGO_Xinzheng_Zhengzhou
+OAX_Xoxocotlan Intl_Oaxaca
+XUZ_Xuzhou Guanyin Airport_Xuzhou
+BYC_Yacuiba_Yacuiba
+YKM_Yakima Air Terminal McAllister Field_Yakima
+JOS_Yakubu Gowon_Jos
+KUM_Yakushima_Yakushima
+YKS_Yakutsk_Yakutsk
+XMY_Yam Island Airport_Yam Island
+GAJ_Yamagata_Yamagata
+UBJ_Yamaguchi Ube_Yamaguchi
+ASK_Yamoussoukro_Yamoussoukro
+HDN_Yampa Valley_Hayden
+ENY_Yan'an Airport_Yan'an
+YNZ_Yancheng Airport_Yancheng
+RGN_Yangon Intl_Yangon
+YNY_Yangyang International Airport_Sokcho / Gangneung
+YNJ_Yanji Airport_\N
+YAO_Yaounde Ville_Yaounde
+YAP_Yap Intl_Yap
+EJA_Yariguies_Barrancabermeja
+GZA_Yasser Arafat Intl_Gaza
+AZD_Yazd Shahid Sadooghi_Yazd
+CRW_Yeager_Charleston
+YEC_Yecheon_Yechon
+PKC_Yelizovo_Petropavlovsk
+YZF_Yellowknife_Yellowknife
+COD_Yellowstone Rgnl_Cody
+YNB_Yenbo_Yenbo
+EIE_Yeniseysk Airport_Yeniseysk
+RSU_Yeosu_Yeosu
+YEO_Yeovilton_Yeovilton
+YBP_Yibin_Yibin
+YIH_Yichang Airport_Yichang
+INC_Yinchuan_Yinchuan
+YIN_Yining Airport_Yining
+YIW_Yiwu Airport_Yiwu
+OKO_Yokota Ab_Yokota
+YOL_Yola_Yola
+OGN_Yonaguni_Yonaguni Jima
+ZAC_York Landing Airport_York Landing
+OKR_Yorke Island Airport_Yorke Island
+YQV_Yorkton Muni_Yorkton
+RNJ_Yoron_Yoron
+JOK_Yoshkar-Ola Airport_Yoshkar-Ola
+YNG_Youngstown Warren Rgnl_Youngstown
+UYN_Yulin Airport_Yulin
+YUM_Yuma Mcas Yuma Intl_Yuma
+IWA_Yuzhny_Ivanovo
+TAS_Yuzhny_Tashkent
+ZAD_Zadar_Zadar
+ZAG_Zagreb_Zagreb
+ZAH_Zahedan Intl_Zahedan
+ZAM_Zamboanga Intl_Zamboanga
+ZMM_Zamora_Zamora
+ZNZ_Zanzibar_Zanzibar
+OZH_Zaporizhzhia International Airport_\N
+ZAZ_Zaragoza Ab_Zaragoza
+ZAR_Zaria_Zaria
+DJE_Zarzis_Djerba
+TLM_Zenata_Tlemcen
+ZHA_Zhanjiang Airport_Zhanjiang
+ZAT_Zhaotong Airport_Zhaotong
+DZN_Zhezkazgan Airport_Zhezkazgan
+DZH_Zhezkazgan_Dzhezkazgan
+PZH_Zhob_Zhob
+ZGC_Zhongchuan_Lanzhou
+HSN_Zhoushan Airport_Zhoushan
+DLC_Zhoushuizi_Dalian
+ZUH_Zhuhai Airport_Zhuhai
+IEV_Zhuliany Intl_Kiev
+DAC_Zia Intl_Dhaka
+ZIG_Ziguinchor_Ziguinchor
+ZND_Zinder_Zinder
+ORG_Zorg en Hoop Airport_Paramaribo
+MCZ_Zumbi Dos Palmares_Maceio
+ZRH_Zurich_Zurich
+EVN_Zvartnots_Yerevan
+AGH_Ã„ngelholm-Helsingborg Airport_Ã„ngelholm
+IDY_ÃŽle d'Yeu Airport_ÃŽle d'Yeu
+ILP_ÃŽle des Pins Airport_\N
+OSD_Ã–stersund Airport_Ã–stersund
+LCJ_ÅÃ³dÅº WÅ‚adysÅ‚aw Reymont Airport_ÅÃ³dÅº
+ILZ_Å½ilina Airport_Å½ilina
